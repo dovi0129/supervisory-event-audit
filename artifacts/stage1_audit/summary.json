@@ -1,0 +1,10 @@
+{
+  "folds": 6,
+  "observed_prediction_rows": 11674,
+  "new_model_folds": 6,
+  "spec_version": "0.2",
+  "scale_mode": "train",
+  "time_test_episodes": 284,
+  "time_seen_episodes": 177,
+  "time_unseen_episodes": 107
+}

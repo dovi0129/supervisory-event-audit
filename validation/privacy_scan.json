@@ -1,0 +1,51 @@
+{
+  "files_scanned": 147,
+  "pdf_text_and_metadata_scanned": 3,
+  "png_metadata_scanned": 4,
+  "dictionary_sizes": {
+    "original_tag": 124,
+    "original_grade": 33,
+    "original_operator": 5,
+    "known_person_account": 4
+  },
+  "categories": [
+    "original_tag",
+    "original_grade",
+    "original_operator",
+    "known_person_account",
+    "local_absolute_path",
+    "email",
+    "line_or_instrument",
+    "company_marker",
+    "location_marker"
+  ],
+  "unresolved": [],
+  "forbidden_files": [],
+  "allowed_internal_round_files": [
+    "examples/synthetic_demo.py",
+    "scripts/paper1_figs/build_figures.py",
+    "scripts/s70/s70_features.py",
+    "scripts/s70/s70_report.py",
+    "scripts/s70/s70_run.py",
+    "scripts/s70/s73_sequence.py",
+    "scripts/s74/s74_episodes.py",
+    "scripts/s74/s74_report.py",
+    "scripts/s77/s77_q2_fit.py",
+    "scripts/s77/s77_report.py",
+    "scripts/s77/s77_run.py",
+    "scripts/s77/s89_controls.py",
+    "scripts/s77/s89_q2.py",
+    "scripts/s77/s89_report.py",
+    "scripts/s77/s92_small_counts.py",
+    "tests/test_release.py",
+    "tests/test_s70_timing.py",
+    "tests/test_s77_timing.py",
+    "validation/preparation.json",
+    "validation/privacy_scan.json",
+    "validation/record_stage_skips.json",
+    "validation/redaction_changes.json",
+    "validation/reproduction.json"
+  ],
+  "inventory": "validation/file_inventory.csv",
+  "generated_scan_artifacts_checked_before_write": true
+}

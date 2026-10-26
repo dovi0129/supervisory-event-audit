@@ -1,0 +1,62 @@
+[
+  {
+    "file": "fig1_bundle_excess.pdf",
+    "pages": 1,
+    "width_inches": 4.803149753146702,
+    "minimum_font_points": 8.0,
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "Matplotlib",
+      "producer": "Matplotlib pdf backend v3.10.3",
+      "creationDate": "D:20261026224617+09'00'",
+      "modDate": "",
+      "trapped": "",
+      "encryption": null
+    },
+    "text_available": true
+  },
+  {
+    "file": "fig2_information_increment.pdf",
+    "pages": 1,
+    "width_inches": 4.803149753146702,
+    "minimum_font_points": 8.0,
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "Matplotlib",
+      "producer": "Matplotlib pdf backend v3.10.3",
+      "creationDate": "D:20261026224618+09'00'",
+      "modDate": "",
+      "trapped": "",
+      "encryption": null
+    },
+    "text_available": true
+  },
+  {
+    "file": "fig3_onset_recall.pdf",
+    "pages": 1,
+    "width_inches": 4.803149753146702,
+    "minimum_font_points": 8.0,
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "Matplotlib",
+      "producer": "Matplotlib pdf backend v3.10.3",
+      "creationDate": "D:20261026224618+09'00'",
+      "modDate": "",
+      "trapped": "",
+      "encryption": null
+    },
+    "text_available": true
+  }
+]

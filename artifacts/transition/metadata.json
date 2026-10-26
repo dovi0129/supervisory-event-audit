@@ -1,0 +1,51 @@
+{
+  "month": null,
+  "n_minutes": 481311,
+  "n_changes": 1123,
+  "n_global_changes": 1123,
+  "roles": [
+    "reel 수분 목표",
+    "reel 평량 목표",
+    "size 수분 목표",
+    "size 평량 목표",
+    "분사/와이어 속도비 목표",
+    "회분 목표"
+  ],
+  "control_full": false,
+  "bands": {
+    "primary": [
+      2.0,
+      0.3
+    ],
+    "tight": [
+      1.0,
+      0.2
+    ]
+  },
+  "seed": 7401,
+  "unit": "minute",
+  "power_units": "unverified; raw channel sum",
+  "grade_key": "grade|basis-weight-class, forward-filled at most 30 minutes",
+  "primary": {
+    "episodes": 1528,
+    "actions": 18436,
+    "controls": {
+      "normal_manual_starts": 612,
+      "return_unobserved": 0,
+      "no_target_in_manual": 197,
+      "no_target_before_common_end": 10,
+      "included": 405
+    }
+  },
+  "tight": {
+    "episodes": 1531,
+    "actions": 18620,
+    "controls": {
+      "normal_manual_starts": 612,
+      "return_unobserved": 0,
+      "no_target_in_manual": 197,
+      "no_target_before_common_end": 7,
+      "included": 408
+    }
+  }
+}

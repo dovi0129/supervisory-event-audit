@@ -1,0 +1,3 @@
+split,stratum,contrast,decisions,episodes,accuracy_difference,ci_low,ci_high,episode_difference,mechanical_category,is_primary
+time,seen,R2-R1,1455,168,-0.008934707903780068,-0.021491290513349966,0.003217610979199485,-0.009406566118150066,등록된 측정 상태 추가 이득 5 %p 미달(해당 입력·학습기·지표),True
+time,seen,R1-R0p,1455,168,0.12439862542955327,0.09475952299663463,0.15510498430141287,0.1151771636368138,설정·행동 상태의 추가 이득 지지,True

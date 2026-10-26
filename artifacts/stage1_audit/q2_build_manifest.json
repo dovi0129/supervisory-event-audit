@@ -1,0 +1,40 @@
+{
+  "episodes": 1123,
+  "no_action_episodes": 25,
+  "decision_rows": 10370,
+  "censored_rows": 1098,
+  "groups": 1123,
+  "roles": [
+    "reel 수분 목표",
+    "reel 평량 목표",
+    "size 수분 목표",
+    "size 평량 목표",
+    "분사/와이어 속도비 목표",
+    "회분 목표"
+  ],
+  "classes": [
+    "reel 수분 목표",
+    "reel 평량 목표",
+    "size 수분 목표",
+    "size 평량 목표",
+    "분사/와이어 속도비 목표",
+    "회분 목표",
+    "mode",
+    "manual_output",
+    "DCS"
+  ],
+  "frozen_s68_scales": {
+    "reel 수분 목표": 2.2,
+    "reel 평량 목표": 164.5,
+    "size 수분 목표": 2.5,
+    "size 평량 목표": 139.0,
+    "분사/와이어 속도비 목표": 0.52,
+    "회분 목표": 25.0
+  },
+  "scale_mode": "train",
+  "smoke": false,
+  "seed": 7702,
+  "initial_rule": "one empty-history row at t0; completion rows at t0 share that one row; later completions unique by minute",
+  "history_rule": "completed bundles only; tie at completion resolved by latest start for last-bundle summary",
+  "scale_scope": "q01/q99 of current target values at initial training decision times; fixed through validation, test and final refit"
+}

@@ -1,0 +1,28 @@
+{
+  "data": "fully synthetic",
+  "alarms": [
+    3,
+    11
+  ],
+  "hits": [
+    true,
+    true
+  ],
+  "lead_minutes": [
+    3,
+    3
+  ],
+  "future_label_positive_minutes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "within_group_event_counts_preserved": true
+}

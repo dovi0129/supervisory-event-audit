@@ -1,0 +1,678 @@
+{
+  "replacement_counts": {
+    "tag": 69,
+    "absolute_path": 8,
+    "launcher_replaced": 4
+  },
+  "findings": [
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        68,
+        85
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        68,
+        86
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        69,
+        86
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        68,
+        85
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        68,
+        85
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        69,
+        87
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        69,
+        87
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        68,
+        86
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        16
+      ],
+      "action": "runtime path"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        70
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 3,
+      "lines": [
+        51,
+        63,
+        68
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        54,
+        72
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        72
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        63
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        51
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        50
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 3,
+      "lines": [
+        55,
+        59,
+        66
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        49
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 3,
+      "lines": [
+        57,
+        61,
+        67
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        59
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        55
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 3,
+      "lines": [
+        58,
+        62,
+        67
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 3,
+      "lines": [
+        56,
+        60,
+        66
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        61
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        57
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        53,
+        69
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        48,
+        68
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        53
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        50,
+        69
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        62
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        58
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        52
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        60
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        56
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        52,
+        70
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 2,
+      "lines": [
+        49,
+        69
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        48
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        28
+      ],
+      "action": "runtime path"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        29
+      ],
+      "action": "runtime path"
+    },
+    {
+      "file": "scripts/s70/s70_run.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        15
+      ],
+      "action": "runtime path"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        17
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        17
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        18
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        15
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        15
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        16
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        16
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        19
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "count": 1,
+      "lines": [
+        18
+      ],
+      "action": "role/pseudonym replacement"
+    },
+    {
+      "file": "scripts/s74/s74_report.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        15
+      ],
+      "action": "runtime path"
+    },
+    {
+      "file": "scripts/s74/paper_figstyle.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        9
+      ],
+      "action": "runtime path"
+    },
+    {
+      "file": "scripts/s77/s77_report.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        377
+      ],
+      "action": "runtime path"
+    },
+    {
+      "file": "scripts/s77/s77_run.py",
+      "category": "absolute_path",
+      "count": 1,
+      "lines": [
+        14
+      ],
+      "action": "runtime path"
+    }
+  ],
+  "excluded": [
+    {
+      "file": "artifacts/intervention/full/finish_status.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/intervention/full/provenance.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/intervention/full/watch_event.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/transition/figure_audit.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/transition/figure_pdf_audit.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/transition/sequence_examples.csv",
+      "reason": "individual episode"
+    },
+    {
+      "file": "artifacts/transition/verification.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/stage1_audit/figure_layout_audit.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/stage1_audit/figure_numeric_check.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/stage1_audit/finish_status.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/stage1_audit/run_provenance.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/stage1_audit/verification.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/stage1_audit/watch_event.json",
+      "reason": "internal operational metadata"
+    },
+    {
+      "file": "artifacts/stage1_audit/watch_event_full.json",
+      "reason": "internal operational metadata"
+    }
+  ],
+  "record_path_keys": [
+    "artifacts_intervention_data_features_private_parquet",
+    "artifacts_intervention_data_minutes_private_parquet",
+    "artifacts_intervention_data_modes_private_parquet",
+    "artifacts_operator_policy_tag_map_private_json",
+    "artifacts_private",
+    "artifacts_private_s68_cache_parquet",
+    "artifacts_private_s68_columns_private_json",
+    "artifacts_private_s68_minutes_parquet",
+    "artifacts_stage1_audit_folds_time_predictions_private_parquet",
+    "artifacts_stage1_audit_q2_decisions_private_parquet",
+    "data_events_private_parquet",
+    "data_features_private_parquet",
+    "data_minutes_private_parquet",
+    "data_modes_private_parquet",
+    "event_conditions_private_parquet",
+    "event_membership_private_parquet",
+    "events_private_parquet",
+    "features_private_parquet",
+    "grade_key_map_private_json",
+    "mask_configuration",
+    "minutes_private_parquet",
+    "models_private",
+    "modes_private_parquet",
+    "no_recent_conditions_private_parquet",
+    "path_predictions_private_parquet",
+    "pre30_bundle_counts_private_parquet",
+    "predictions_private",
+    "q1_elapsed_windows_private_parquet",
+    "q1_windows_private_parquet",
+    "q2_bundles_private_json",
+    "q2_decisions_private_parquet",
+    "q2_episodes_private_parquet",
+    "q3_detector_predictions_private_parquet",
+    "q3_windows_private_parquet",
+    "s68_columns_private_json",
+    "s68_lot_map_private_json",
+    "sequences_private_parquet",
+    "tag_map_private_json"
+  ],
+  "role_columns": [
+    "moisture",
+    "moisture_target",
+    "pressure_after",
+    "pressure_pre",
+    "signal_001",
+    "signal_002",
+    "signal_003",
+    "signal_004",
+    "signal_005",
+    "signal_006",
+    "signal_007",
+    "signal_008",
+    "signal_009",
+    "signal_010",
+    "signal_011",
+    "signal_012",
+    "signal_013",
+    "signal_014",
+    "signal_015",
+    "signal_016",
+    "signal_017",
+    "signal_018",
+    "signal_019",
+    "signal_020",
+    "signal_021",
+    "signal_022",
+    "signal_023",
+    "signal_024",
+    "signal_025",
+    "signal_026",
+    "signal_028",
+    "signal_029",
+    "signal_030",
+    "signal_031",
+    "signal_032",
+    "signal_033",
+    "signal_034",
+    "signal_036",
+    "signal_038",
+    "signal_039",
+    "signal_040",
+    "signal_041",
+    "signal_046",
+    "signal_047",
+    "signal_049",
+    "signal_050",
+    "signal_051",
+    "signal_053",
+    "signal_054",
+    "signal_055",
+    "signal_056",
+    "signal_057",
+    "signal_058",
+    "signal_059",
+    "signal_060",
+    "signal_061",
+    "signal_062",
+    "signal_063",
+    "signal_064",
+    "signal_065",
+    "signal_066",
+    "signal_067",
+    "signal_068",
+    "size_moisture",
+    "size_moisture_target",
+    "speed",
+    "weight",
+    "weight_target"
+  ]
+}

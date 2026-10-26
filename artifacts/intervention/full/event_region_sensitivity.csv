@@ -1,0 +1,1297 @@
+loop,k,variant,direction,fold,model,event_region,events,event_hits
+전건조 압력 모드,15,main,aut→man,time,rule,normal,17,2
+전건조 압력 모드,15,main,aut→man,time,rule,transition,182,25
+전건조 압력 모드,15,main,aut→man,time,rule,other,0,0
+전건조 압력 모드,15,main,aut→man,time,tree,normal,17,3
+전건조 압력 모드,15,main,aut→man,time,tree,transition,182,17
+전건조 압력 모드,15,main,aut→man,time,tree,other,0,0
+전건조 압력 모드,15,main,aut→man,time,gbm,normal,17,7
+전건조 압력 모드,15,main,aut→man,time,gbm,transition,182,22
+전건조 압력 모드,15,main,aut→man,time,gbm,other,0,0
+전건조 압력 모드,15,main,aut→man,lot0,rule,normal,9,1
+전건조 압력 모드,15,main,aut→man,lot0,rule,transition,137,22
+전건조 압력 모드,15,main,aut→man,lot0,rule,other,0,0
+전건조 압력 모드,15,main,aut→man,lot0,tree,normal,9,0
+전건조 압력 모드,15,main,aut→man,lot0,tree,transition,137,19
+전건조 압력 모드,15,main,aut→man,lot0,tree,other,0,0
+전건조 압력 모드,15,main,aut→man,lot0,gbm,normal,9,1
+전건조 압력 모드,15,main,aut→man,lot0,gbm,transition,137,23
+전건조 압력 모드,15,main,aut→man,lot0,gbm,other,0,0
+전건조 압력 모드,15,main,aut→man,lot1,rule,normal,12,3
+전건조 압력 모드,15,main,aut→man,lot1,rule,transition,156,17
+전건조 압력 모드,15,main,aut→man,lot1,rule,other,1,0
+전건조 압력 모드,15,main,aut→man,lot1,tree,normal,12,4
+전건조 압력 모드,15,main,aut→man,lot1,tree,transition,156,13
+전건조 압력 모드,15,main,aut→man,lot1,tree,other,1,0
+전건조 압력 모드,15,main,aut→man,lot1,gbm,normal,12,4
+전건조 압력 모드,15,main,aut→man,lot1,gbm,transition,156,19
+전건조 압력 모드,15,main,aut→man,lot1,gbm,other,1,0
+전건조 압력 모드,15,main,aut→man,lot2,rule,normal,18,5
+전건조 압력 모드,15,main,aut→man,lot2,rule,transition,156,25
+전건조 압력 모드,15,main,aut→man,lot2,rule,other,0,0
+전건조 압력 모드,15,main,aut→man,lot2,tree,normal,18,2
+전건조 압력 모드,15,main,aut→man,lot2,tree,transition,156,20
+전건조 압력 모드,15,main,aut→man,lot2,tree,other,0,0
+전건조 압력 모드,15,main,aut→man,lot2,gbm,normal,18,8
+전건조 압력 모드,15,main,aut→man,lot2,gbm,transition,156,26
+전건조 압력 모드,15,main,aut→man,lot2,gbm,other,0,0
+전건조 압력 모드,15,main,aut→man,lot3,rule,normal,14,4
+전건조 압력 모드,15,main,aut→man,lot3,rule,transition,136,18
+전건조 압력 모드,15,main,aut→man,lot3,rule,other,0,0
+전건조 압력 모드,15,main,aut→man,lot3,tree,normal,14,1
+전건조 압력 모드,15,main,aut→man,lot3,tree,transition,136,10
+전건조 압력 모드,15,main,aut→man,lot3,tree,other,0,0
+전건조 압력 모드,15,main,aut→man,lot3,gbm,normal,14,7
+전건조 압력 모드,15,main,aut→man,lot3,gbm,transition,136,28
+전건조 압력 모드,15,main,aut→man,lot3,gbm,other,0,0
+전건조 압력 모드,15,main,aut→man,lot4,rule,normal,15,4
+전건조 압력 모드,15,main,aut→man,lot4,rule,transition,135,20
+전건조 압력 모드,15,main,aut→man,lot4,rule,other,0,0
+전건조 압력 모드,15,main,aut→man,lot4,tree,normal,15,5
+전건조 압력 모드,15,main,aut→man,lot4,tree,transition,135,16
+전건조 압력 모드,15,main,aut→man,lot4,tree,other,0,0
+전건조 압력 모드,15,main,aut→man,lot4,gbm,normal,15,4
+전건조 압력 모드,15,main,aut→man,lot4,gbm,transition,135,20
+전건조 압력 모드,15,main,aut→man,lot4,gbm,other,0,0
+전건조 압력 모드,15,main,man→aut,time,rule,normal,16,5
+전건조 압력 모드,15,main,man→aut,time,rule,transition,156,19
+전건조 압력 모드,15,main,man→aut,time,rule,other,0,0
+전건조 압력 모드,15,main,man→aut,time,tree,normal,16,4
+전건조 압력 모드,15,main,man→aut,time,tree,transition,156,26
+전건조 압력 모드,15,main,man→aut,time,tree,other,0,0
+전건조 압력 모드,15,main,man→aut,time,gbm,normal,16,3
+전건조 압력 모드,15,main,man→aut,time,gbm,transition,156,48
+전건조 압력 모드,15,main,man→aut,time,gbm,other,0,0
+전건조 압력 모드,15,main,man→aut,lot0,rule,normal,6,2
+전건조 압력 모드,15,main,man→aut,lot0,rule,transition,138,25
+전건조 압력 모드,15,main,man→aut,lot0,rule,other,0,0
+전건조 압력 모드,15,main,man→aut,lot0,tree,normal,6,1
+전건조 압력 모드,15,main,man→aut,lot0,tree,transition,138,20
+전건조 압력 모드,15,main,man→aut,lot0,tree,other,0,0
+전건조 압력 모드,15,main,man→aut,lot0,gbm,normal,6,1
+전건조 압력 모드,15,main,man→aut,lot0,gbm,transition,138,38
+전건조 압력 모드,15,main,man→aut,lot0,gbm,other,0,0
+전건조 압력 모드,15,main,man→aut,lot1,rule,normal,7,2
+전건조 압력 모드,15,main,man→aut,lot1,rule,transition,115,23
+전건조 압력 모드,15,main,man→aut,lot1,rule,other,0,0
+전건조 압력 모드,15,main,man→aut,lot1,tree,normal,7,1
+전건조 압력 모드,15,main,man→aut,lot1,tree,transition,115,26
+전건조 압력 모드,15,main,man→aut,lot1,tree,other,0,0
+전건조 압력 모드,15,main,man→aut,lot1,gbm,normal,7,2
+전건조 압력 모드,15,main,man→aut,lot1,gbm,transition,115,40
+전건조 압력 모드,15,main,man→aut,lot1,gbm,other,0,0
+전건조 압력 모드,15,main,man→aut,lot2,rule,normal,12,2
+전건조 압력 모드,15,main,man→aut,lot2,rule,transition,122,19
+전건조 압력 모드,15,main,man→aut,lot2,rule,other,0,0
+전건조 압력 모드,15,main,man→aut,lot2,tree,normal,12,5
+전건조 압력 모드,15,main,man→aut,lot2,tree,transition,122,32
+전건조 압력 모드,15,main,man→aut,lot2,tree,other,0,0
+전건조 압력 모드,15,main,man→aut,lot2,gbm,normal,12,4
+전건조 압력 모드,15,main,man→aut,lot2,gbm,transition,122,50
+전건조 압력 모드,15,main,man→aut,lot2,gbm,other,0,0
+전건조 압력 모드,15,main,man→aut,lot3,rule,normal,11,3
+전건조 압력 모드,15,main,man→aut,lot3,rule,transition,115,9
+전건조 압력 모드,15,main,man→aut,lot3,rule,other,0,0
+전건조 압력 모드,15,main,man→aut,lot3,tree,normal,11,5
+전건조 압력 모드,15,main,man→aut,lot3,tree,transition,115,21
+전건조 압력 모드,15,main,man→aut,lot3,tree,other,0,0
+전건조 압력 모드,15,main,man→aut,lot3,gbm,normal,11,4
+전건조 압력 모드,15,main,man→aut,lot3,gbm,transition,115,41
+전건조 압력 모드,15,main,man→aut,lot3,gbm,other,0,0
+전건조 압력 모드,15,main,man→aut,lot4,rule,normal,10,4
+전건조 압력 모드,15,main,man→aut,lot4,rule,transition,112,25
+전건조 압력 모드,15,main,man→aut,lot4,rule,other,0,0
+전건조 압력 모드,15,main,man→aut,lot4,tree,normal,10,4
+전건조 압력 모드,15,main,man→aut,lot4,tree,transition,112,14
+전건조 압력 모드,15,main,man→aut,lot4,tree,other,0,0
+전건조 압력 모드,15,main,man→aut,lot4,gbm,normal,10,0
+전건조 압력 모드,15,main,man→aut,lot4,gbm,transition,112,32
+전건조 압력 모드,15,main,man→aut,lot4,gbm,other,0,0
+전건조 압력 모드,5,main,aut→man,time,rule,normal,17,2
+전건조 압력 모드,5,main,aut→man,time,rule,transition,182,53
+전건조 압력 모드,5,main,aut→man,time,rule,other,0,0
+전건조 압력 모드,5,main,aut→man,time,tree,normal,17,1
+전건조 압력 모드,5,main,aut→man,time,tree,transition,182,55
+전건조 압력 모드,5,main,aut→man,time,tree,other,0,0
+전건조 압력 모드,5,main,aut→man,time,gbm,normal,17,3
+전건조 압력 모드,5,main,aut→man,time,gbm,transition,182,56
+전건조 압력 모드,5,main,aut→man,time,gbm,other,0,0
+전건조 압력 모드,5,main,aut→man,lot0,rule,normal,9,1
+전건조 압력 모드,5,main,aut→man,lot0,rule,transition,137,59
+전건조 압력 모드,5,main,aut→man,lot0,rule,other,0,0
+전건조 압력 모드,5,main,aut→man,lot0,tree,normal,9,2
+전건조 압력 모드,5,main,aut→man,lot0,tree,transition,137,63
+전건조 압력 모드,5,main,aut→man,lot0,tree,other,0,0
+전건조 압력 모드,5,main,aut→man,lot0,gbm,normal,9,1
+전건조 압력 모드,5,main,aut→man,lot0,gbm,transition,137,62
+전건조 압력 모드,5,main,aut→man,lot0,gbm,other,0,0
+전건조 압력 모드,5,main,aut→man,lot1,rule,normal,12,3
+전건조 압력 모드,5,main,aut→man,lot1,rule,transition,156,48
+전건조 압력 모드,5,main,aut→man,lot1,rule,other,1,0
+전건조 압력 모드,5,main,aut→man,lot1,tree,normal,12,3
+전건조 압력 모드,5,main,aut→man,lot1,tree,transition,156,56
+전건조 압력 모드,5,main,aut→man,lot1,tree,other,1,0
+전건조 압력 모드,5,main,aut→man,lot1,gbm,normal,12,4
+전건조 압력 모드,5,main,aut→man,lot1,gbm,transition,156,54
+전건조 압력 모드,5,main,aut→man,lot1,gbm,other,1,0
+전건조 압력 모드,5,main,aut→man,lot2,rule,normal,18,6
+전건조 압력 모드,5,main,aut→man,lot2,rule,transition,156,56
+전건조 압력 모드,5,main,aut→man,lot2,rule,other,0,0
+전건조 압력 모드,5,main,aut→man,lot2,tree,normal,18,6
+전건조 압력 모드,5,main,aut→man,lot2,tree,transition,156,67
+전건조 압력 모드,5,main,aut→man,lot2,tree,other,0,0
+전건조 압력 모드,5,main,aut→man,lot2,gbm,normal,18,7
+전건조 압력 모드,5,main,aut→man,lot2,gbm,transition,156,67
+전건조 압력 모드,5,main,aut→man,lot2,gbm,other,0,0
+전건조 압력 모드,5,main,aut→man,lot3,rule,normal,14,4
+전건조 압력 모드,5,main,aut→man,lot3,rule,transition,136,47
+전건조 압력 모드,5,main,aut→man,lot3,rule,other,0,0
+전건조 압력 모드,5,main,aut→man,lot3,tree,normal,14,4
+전건조 압력 모드,5,main,aut→man,lot3,tree,transition,136,49
+전건조 압력 모드,5,main,aut→man,lot3,tree,other,0,0
+전건조 압력 모드,5,main,aut→man,lot3,gbm,normal,14,7
+전건조 압력 모드,5,main,aut→man,lot3,gbm,transition,136,62
+전건조 압력 모드,5,main,aut→man,lot3,gbm,other,0,0
+전건조 압력 모드,5,main,aut→man,lot4,rule,normal,15,4
+전건조 압력 모드,5,main,aut→man,lot4,rule,transition,135,61
+전건조 압력 모드,5,main,aut→man,lot4,rule,other,0,0
+전건조 압력 모드,5,main,aut→man,lot4,tree,normal,15,4
+전건조 압력 모드,5,main,aut→man,lot4,tree,transition,135,65
+전건조 압력 모드,5,main,aut→man,lot4,tree,other,0,0
+전건조 압력 모드,5,main,aut→man,lot4,gbm,normal,15,5
+전건조 압력 모드,5,main,aut→man,lot4,gbm,transition,135,61
+전건조 압력 모드,5,main,aut→man,lot4,gbm,other,0,0
+전건조 압력 모드,5,main,man→aut,time,rule,normal,16,5
+전건조 압력 모드,5,main,man→aut,time,rule,transition,168,36
+전건조 압력 모드,5,main,man→aut,time,rule,other,0,0
+전건조 압력 모드,5,main,man→aut,time,tree,normal,16,2
+전건조 압력 모드,5,main,man→aut,time,tree,transition,168,69
+전건조 압력 모드,5,main,man→aut,time,tree,other,0,0
+전건조 압력 모드,5,main,man→aut,time,gbm,normal,16,1
+전건조 압력 모드,5,main,man→aut,time,gbm,transition,168,74
+전건조 압력 모드,5,main,man→aut,time,gbm,other,0,0
+전건조 압력 모드,5,main,man→aut,lot0,rule,normal,6,1
+전건조 압력 모드,5,main,man→aut,lot0,rule,transition,146,35
+전건조 압력 모드,5,main,man→aut,lot0,rule,other,0,0
+전건조 압력 모드,5,main,man→aut,lot0,tree,normal,6,0
+전건조 압력 모드,5,main,man→aut,lot0,tree,transition,146,61
+전건조 압력 모드,5,main,man→aut,lot0,tree,other,0,0
+전건조 압력 모드,5,main,man→aut,lot0,gbm,normal,6,1
+전건조 압력 모드,5,main,man→aut,lot0,gbm,transition,146,56
+전건조 압력 모드,5,main,man→aut,lot0,gbm,other,0,0
+전건조 압력 모드,5,main,man→aut,lot1,rule,normal,7,1
+전건조 압력 모드,5,main,man→aut,lot1,rule,transition,120,14
+전건조 압력 모드,5,main,man→aut,lot1,rule,other,0,0
+전건조 압력 모드,5,main,man→aut,lot1,tree,normal,7,0
+전건조 압력 모드,5,main,man→aut,lot1,tree,transition,120,44
+전건조 압력 모드,5,main,man→aut,lot1,tree,other,0,0
+전건조 압력 모드,5,main,man→aut,lot1,gbm,normal,7,1
+전건조 압력 모드,5,main,man→aut,lot1,gbm,transition,120,54
+전건조 압력 모드,5,main,man→aut,lot1,gbm,other,0,0
+전건조 압력 모드,5,main,man→aut,lot2,rule,normal,12,2
+전건조 압력 모드,5,main,man→aut,lot2,rule,transition,132,41
+전건조 압력 모드,5,main,man→aut,lot2,rule,other,0,0
+전건조 압력 모드,5,main,man→aut,lot2,tree,normal,12,1
+전건조 압력 모드,5,main,man→aut,lot2,tree,transition,132,53
+전건조 압력 모드,5,main,man→aut,lot2,tree,other,0,0
+전건조 압력 모드,5,main,man→aut,lot2,gbm,normal,12,3
+전건조 압력 모드,5,main,man→aut,lot2,gbm,transition,132,60
+전건조 압력 모드,5,main,man→aut,lot2,gbm,other,0,0
+전건조 압력 모드,5,main,man→aut,lot3,rule,normal,11,3
+전건조 압력 모드,5,main,man→aut,lot3,rule,transition,122,28
+전건조 압력 모드,5,main,man→aut,lot3,rule,other,0,0
+전건조 압력 모드,5,main,man→aut,lot3,tree,normal,11,4
+전건조 압력 모드,5,main,man→aut,lot3,tree,transition,122,40
+전건조 압력 모드,5,main,man→aut,lot3,tree,other,0,0
+전건조 압력 모드,5,main,man→aut,lot3,gbm,normal,11,3
+전건조 압력 모드,5,main,man→aut,lot3,gbm,transition,122,44
+전건조 압력 모드,5,main,man→aut,lot3,gbm,other,0,0
+전건조 압력 모드,5,main,man→aut,lot4,rule,normal,10,3
+전건조 압력 모드,5,main,man→aut,lot4,rule,transition,120,25
+전건조 압력 모드,5,main,man→aut,lot4,rule,other,0,0
+전건조 압력 모드,5,main,man→aut,lot4,tree,normal,10,1
+전건조 압력 모드,5,main,man→aut,lot4,tree,transition,120,48
+전건조 압력 모드,5,main,man→aut,lot4,tree,other,0,0
+전건조 압력 모드,5,main,man→aut,lot4,gbm,normal,10,3
+전건조 압력 모드,5,main,man→aut,lot4,gbm,transition,120,47
+전건조 압력 모드,5,main,man→aut,lot4,gbm,other,0,0
+전건조 압력 모드,5,quick,aut→man,time,rule,normal,17,2
+전건조 압력 모드,5,quick,aut→man,time,rule,transition,189,53
+전건조 압력 모드,5,quick,aut→man,time,rule,other,0,0
+전건조 압력 모드,5,quick,aut→man,time,tree,normal,17,1
+전건조 압력 모드,5,quick,aut→man,time,tree,transition,189,55
+전건조 압력 모드,5,quick,aut→man,time,tree,other,0,0
+전건조 압력 모드,5,quick,aut→man,time,gbm,normal,17,4
+전건조 압력 모드,5,quick,aut→man,time,gbm,transition,189,58
+전건조 압력 모드,5,quick,aut→man,time,gbm,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot0,rule,normal,11,1
+전건조 압력 모드,5,quick,aut→man,lot0,rule,transition,145,59
+전건조 압력 모드,5,quick,aut→man,lot0,rule,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot0,tree,normal,11,2
+전건조 압력 모드,5,quick,aut→man,lot0,tree,transition,145,64
+전건조 압력 모드,5,quick,aut→man,lot0,tree,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot0,gbm,normal,11,1
+전건조 압력 모드,5,quick,aut→man,lot0,gbm,transition,145,67
+전건조 압력 모드,5,quick,aut→man,lot0,gbm,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot1,rule,normal,12,3
+전건조 압력 모드,5,quick,aut→man,lot1,rule,transition,160,49
+전건조 압력 모드,5,quick,aut→man,lot1,rule,other,1,0
+전건조 압력 모드,5,quick,aut→man,lot1,tree,normal,12,3
+전건조 압력 모드,5,quick,aut→man,lot1,tree,transition,160,57
+전건조 압력 모드,5,quick,aut→man,lot1,tree,other,1,0
+전건조 압력 모드,5,quick,aut→man,lot1,gbm,normal,12,4
+전건조 압력 모드,5,quick,aut→man,lot1,gbm,transition,160,60
+전건조 압력 모드,5,quick,aut→man,lot1,gbm,other,1,0
+전건조 압력 모드,5,quick,aut→man,lot2,rule,normal,19,6
+전건조 압력 모드,5,quick,aut→man,lot2,rule,transition,170,58
+전건조 압력 모드,5,quick,aut→man,lot2,rule,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot2,tree,normal,19,6
+전건조 압력 모드,5,quick,aut→man,lot2,tree,transition,170,68
+전건조 압력 모드,5,quick,aut→man,lot2,tree,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot2,gbm,normal,19,7
+전건조 압력 모드,5,quick,aut→man,lot2,gbm,transition,170,72
+전건조 압력 모드,5,quick,aut→man,lot2,gbm,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot3,rule,normal,14,4
+전건조 압력 모드,5,quick,aut→man,lot3,rule,transition,141,48
+전건조 압력 모드,5,quick,aut→man,lot3,rule,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot3,tree,normal,14,4
+전건조 압력 모드,5,quick,aut→man,lot3,tree,transition,141,49
+전건조 압력 모드,5,quick,aut→man,lot3,tree,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot3,gbm,normal,14,6
+전건조 압력 모드,5,quick,aut→man,lot3,gbm,transition,141,60
+전건조 압력 모드,5,quick,aut→man,lot3,gbm,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot4,rule,normal,15,4
+전건조 압력 모드,5,quick,aut→man,lot4,rule,transition,142,61
+전건조 압력 모드,5,quick,aut→man,lot4,rule,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot4,tree,normal,15,4
+전건조 압력 모드,5,quick,aut→man,lot4,tree,transition,142,65
+전건조 압력 모드,5,quick,aut→man,lot4,tree,other,0,0
+전건조 압력 모드,5,quick,aut→man,lot4,gbm,normal,15,4
+전건조 압력 모드,5,quick,aut→man,lot4,gbm,transition,142,64
+전건조 압력 모드,5,quick,aut→man,lot4,gbm,other,0,0
+전건조 압력 모드,5,quick,man→aut,time,rule,normal,16,5
+전건조 압력 모드,5,quick,man→aut,time,rule,transition,177,40
+전건조 압력 모드,5,quick,man→aut,time,rule,other,0,0
+전건조 압력 모드,5,quick,man→aut,time,tree,normal,16,4
+전건조 압력 모드,5,quick,man→aut,time,tree,transition,177,61
+전건조 압력 모드,5,quick,man→aut,time,tree,other,0,0
+전건조 압력 모드,5,quick,man→aut,time,gbm,normal,16,4
+전건조 압력 모드,5,quick,man→aut,time,gbm,transition,177,67
+전건조 압력 모드,5,quick,man→aut,time,gbm,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot0,rule,normal,7,1
+전건조 압력 모드,5,quick,man→aut,lot0,rule,transition,156,41
+전건조 압력 모드,5,quick,man→aut,lot0,rule,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot0,tree,normal,7,0
+전건조 압력 모드,5,quick,man→aut,lot0,tree,transition,156,63
+전건조 압력 모드,5,quick,man→aut,lot0,tree,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot0,gbm,normal,7,1
+전건조 압력 모드,5,quick,man→aut,lot0,gbm,transition,156,61
+전건조 압력 모드,5,quick,man→aut,lot0,gbm,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot1,rule,normal,7,1
+전건조 압력 모드,5,quick,man→aut,lot1,rule,transition,127,17
+전건조 압력 모드,5,quick,man→aut,lot1,rule,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot1,tree,normal,7,0
+전건조 압력 모드,5,quick,man→aut,lot1,tree,transition,127,45
+전건조 압력 모드,5,quick,man→aut,lot1,tree,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot1,gbm,normal,7,0
+전건조 압력 모드,5,quick,man→aut,lot1,gbm,transition,127,52
+전건조 압력 모드,5,quick,man→aut,lot1,gbm,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot2,rule,normal,13,2
+전건조 압력 모드,5,quick,man→aut,lot2,rule,transition,150,49
+전건조 압력 모드,5,quick,man→aut,lot2,rule,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot2,tree,normal,13,2
+전건조 압력 모드,5,quick,man→aut,lot2,tree,transition,150,64
+전건조 압력 모드,5,quick,man→aut,lot2,tree,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot2,gbm,normal,13,4
+전건조 압력 모드,5,quick,man→aut,lot2,gbm,transition,150,65
+전건조 압력 모드,5,quick,man→aut,lot2,gbm,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot3,rule,normal,11,3
+전건조 압력 모드,5,quick,man→aut,lot3,rule,transition,128,30
+전건조 압력 모드,5,quick,man→aut,lot3,rule,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot3,tree,normal,11,4
+전건조 압력 모드,5,quick,man→aut,lot3,tree,transition,128,44
+전건조 압력 모드,5,quick,man→aut,lot3,tree,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot3,gbm,normal,11,2
+전건조 압력 모드,5,quick,man→aut,lot3,gbm,transition,128,46
+전건조 압력 모드,5,quick,man→aut,lot3,gbm,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot4,rule,normal,10,3
+전건조 압력 모드,5,quick,man→aut,lot4,rule,transition,127,28
+전건조 압력 모드,5,quick,man→aut,lot4,rule,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot4,tree,normal,10,1
+전건조 압력 모드,5,quick,man→aut,lot4,tree,transition,127,48
+전건조 압력 모드,5,quick,man→aut,lot4,tree,other,0,0
+전건조 압력 모드,5,quick,man→aut,lot4,gbm,normal,10,1
+전건조 압력 모드,5,quick,man→aut,lot4,gbm,transition,127,49
+전건조 압력 모드,5,quick,man→aut,lot4,gbm,other,0,0
+지료 유량 모드,15,main,aut→man,time,rule,normal,14,5
+지료 유량 모드,15,main,aut→man,time,rule,transition,257,51
+지료 유량 모드,15,main,aut→man,time,rule,other,2,0
+지료 유량 모드,15,main,aut→man,time,tree,normal,14,5
+지료 유량 모드,15,main,aut→man,time,tree,transition,257,44
+지료 유량 모드,15,main,aut→man,time,tree,other,2,0
+지료 유량 모드,15,main,aut→man,time,gbm,normal,14,7
+지료 유량 모드,15,main,aut→man,time,gbm,transition,257,52
+지료 유량 모드,15,main,aut→man,time,gbm,other,2,1
+지료 유량 모드,15,main,aut→man,lot0,rule,normal,11,3
+지료 유량 모드,15,main,aut→man,lot0,rule,transition,177,31
+지료 유량 모드,15,main,aut→man,lot0,rule,other,1,0
+지료 유량 모드,15,main,aut→man,lot0,tree,normal,11,3
+지료 유량 모드,15,main,aut→man,lot0,tree,transition,177,29
+지료 유량 모드,15,main,aut→man,lot0,tree,other,1,0
+지료 유량 모드,15,main,aut→man,lot0,gbm,normal,11,3
+지료 유량 모드,15,main,aut→man,lot0,gbm,transition,177,32
+지료 유량 모드,15,main,aut→man,lot0,gbm,other,1,0
+지료 유량 모드,15,main,aut→man,lot1,rule,normal,8,2
+지료 유량 모드,15,main,aut→man,lot1,rule,transition,202,23
+지료 유량 모드,15,main,aut→man,lot1,rule,other,1,0
+지료 유량 모드,15,main,aut→man,lot1,tree,normal,8,3
+지료 유량 모드,15,main,aut→man,lot1,tree,transition,202,22
+지료 유량 모드,15,main,aut→man,lot1,tree,other,1,0
+지료 유량 모드,15,main,aut→man,lot1,gbm,normal,8,4
+지료 유량 모드,15,main,aut→man,lot1,gbm,transition,202,22
+지료 유량 모드,15,main,aut→man,lot1,gbm,other,1,0
+지료 유량 모드,15,main,aut→man,lot2,rule,normal,17,5
+지료 유량 모드,15,main,aut→man,lot2,rule,transition,215,38
+지료 유량 모드,15,main,aut→man,lot2,rule,other,3,0
+지료 유량 모드,15,main,aut→man,lot2,tree,normal,17,4
+지료 유량 모드,15,main,aut→man,lot2,tree,transition,215,35
+지료 유량 모드,15,main,aut→man,lot2,tree,other,3,0
+지료 유량 모드,15,main,aut→man,lot2,gbm,normal,17,10
+지료 유량 모드,15,main,aut→man,lot2,gbm,transition,215,44
+지료 유량 모드,15,main,aut→man,lot2,gbm,other,3,0
+지료 유량 모드,15,main,aut→man,lot3,rule,normal,14,5
+지료 유량 모드,15,main,aut→man,lot3,rule,transition,211,33
+지료 유량 모드,15,main,aut→man,lot3,rule,other,0,0
+지료 유량 모드,15,main,aut→man,lot3,tree,normal,14,4
+지료 유량 모드,15,main,aut→man,lot3,tree,transition,211,34
+지료 유량 모드,15,main,aut→man,lot3,tree,other,0,0
+지료 유량 모드,15,main,aut→man,lot3,gbm,normal,14,4
+지료 유량 모드,15,main,aut→man,lot3,gbm,transition,211,35
+지료 유량 모드,15,main,aut→man,lot3,gbm,other,0,0
+지료 유량 모드,15,main,aut→man,lot4,rule,normal,12,1
+지료 유량 모드,15,main,aut→man,lot4,rule,transition,192,34
+지료 유량 모드,15,main,aut→man,lot4,rule,other,1,0
+지료 유량 모드,15,main,aut→man,lot4,tree,normal,12,2
+지료 유량 모드,15,main,aut→man,lot4,tree,transition,192,27
+지료 유량 모드,15,main,aut→man,lot4,tree,other,1,0
+지료 유량 모드,15,main,aut→man,lot4,gbm,normal,12,2
+지료 유량 모드,15,main,aut→man,lot4,gbm,transition,192,35
+지료 유량 모드,15,main,aut→man,lot4,gbm,other,1,0
+지료 유량 모드,15,main,man→aut,time,rule,normal,13,6
+지료 유량 모드,15,main,man→aut,time,rule,transition,191,61
+지료 유량 모드,15,main,man→aut,time,rule,other,0,0
+지료 유량 모드,15,main,man→aut,time,tree,normal,13,8
+지료 유량 모드,15,main,man→aut,time,tree,transition,191,41
+지료 유량 모드,15,main,man→aut,time,tree,other,0,0
+지료 유량 모드,15,main,man→aut,time,gbm,normal,13,0
+지료 유량 모드,15,main,man→aut,time,gbm,transition,191,86
+지료 유량 모드,15,main,man→aut,time,gbm,other,0,0
+지료 유량 모드,15,main,man→aut,lot0,rule,normal,7,3
+지료 유량 모드,15,main,man→aut,lot0,rule,transition,165,39
+지료 유량 모드,15,main,man→aut,lot0,rule,other,0,0
+지료 유량 모드,15,main,man→aut,lot0,tree,normal,7,7
+지료 유량 모드,15,main,man→aut,lot0,tree,transition,165,22
+지료 유량 모드,15,main,man→aut,lot0,tree,other,0,0
+지료 유량 모드,15,main,man→aut,lot0,gbm,normal,7,0
+지료 유량 모드,15,main,man→aut,lot0,gbm,transition,165,81
+지료 유량 모드,15,main,man→aut,lot0,gbm,other,0,0
+지료 유량 모드,15,main,man→aut,lot1,rule,normal,6,3
+지료 유량 모드,15,main,man→aut,lot1,rule,transition,145,37
+지료 유량 모드,15,main,man→aut,lot1,rule,other,0,0
+지료 유량 모드,15,main,man→aut,lot1,tree,normal,6,3
+지료 유량 모드,15,main,man→aut,lot1,tree,transition,145,20
+지료 유량 모드,15,main,man→aut,lot1,tree,other,0,0
+지료 유량 모드,15,main,man→aut,lot1,gbm,normal,6,0
+지료 유량 모드,15,main,man→aut,lot1,gbm,transition,145,67
+지료 유량 모드,15,main,man→aut,lot1,gbm,other,0,0
+지료 유량 모드,15,main,man→aut,lot2,rule,normal,11,6
+지료 유량 모드,15,main,man→aut,lot2,rule,transition,150,41
+지료 유량 모드,15,main,man→aut,lot2,rule,other,1,0
+지료 유량 모드,15,main,man→aut,lot2,tree,normal,11,8
+지료 유량 모드,15,main,man→aut,lot2,tree,transition,150,24
+지료 유량 모드,15,main,man→aut,lot2,tree,other,1,0
+지료 유량 모드,15,main,man→aut,lot2,gbm,normal,11,3
+지료 유량 모드,15,main,man→aut,lot2,gbm,transition,150,77
+지료 유량 모드,15,main,man→aut,lot2,gbm,other,1,0
+지료 유량 모드,15,main,man→aut,lot3,rule,normal,12,7
+지료 유량 모드,15,main,man→aut,lot3,rule,transition,143,51
+지료 유량 모드,15,main,man→aut,lot3,rule,other,1,0
+지료 유량 모드,15,main,man→aut,lot3,tree,normal,12,8
+지료 유량 모드,15,main,man→aut,lot3,tree,transition,143,29
+지료 유량 모드,15,main,man→aut,lot3,tree,other,1,0
+지료 유량 모드,15,main,man→aut,lot3,gbm,normal,12,1
+지료 유량 모드,15,main,man→aut,lot3,gbm,transition,143,77
+지료 유량 모드,15,main,man→aut,lot3,gbm,other,1,0
+지료 유량 모드,15,main,man→aut,lot4,rule,normal,8,5
+지료 유량 모드,15,main,man→aut,lot4,rule,transition,158,43
+지료 유량 모드,15,main,man→aut,lot4,rule,other,0,0
+지료 유량 모드,15,main,man→aut,lot4,tree,normal,8,6
+지료 유량 모드,15,main,man→aut,lot4,tree,transition,158,26
+지료 유량 모드,15,main,man→aut,lot4,tree,other,0,0
+지료 유량 모드,15,main,man→aut,lot4,gbm,normal,8,1
+지료 유량 모드,15,main,man→aut,lot4,gbm,transition,158,87
+지료 유량 모드,15,main,man→aut,lot4,gbm,other,0,0
+지료 유량 모드,5,main,aut→man,time,rule,normal,15,5
+지료 유량 모드,5,main,aut→man,time,rule,transition,258,118
+지료 유량 모드,5,main,aut→man,time,rule,other,2,0
+지료 유량 모드,5,main,aut→man,time,tree,normal,15,8
+지료 유량 모드,5,main,aut→man,time,tree,transition,258,125
+지료 유량 모드,5,main,aut→man,time,tree,other,2,0
+지료 유량 모드,5,main,aut→man,time,gbm,normal,15,5
+지료 유량 모드,5,main,aut→man,time,gbm,transition,258,106
+지료 유량 모드,5,main,aut→man,time,gbm,other,2,0
+지료 유량 모드,5,main,aut→man,lot0,rule,normal,11,4
+지료 유량 모드,5,main,aut→man,lot0,rule,transition,179,82
+지료 유량 모드,5,main,aut→man,lot0,rule,other,1,0
+지료 유량 모드,5,main,aut→man,lot0,tree,normal,11,3
+지료 유량 모드,5,main,aut→man,lot0,tree,transition,179,77
+지료 유량 모드,5,main,aut→man,lot0,tree,other,1,0
+지료 유량 모드,5,main,aut→man,lot0,gbm,normal,11,2
+지료 유량 모드,5,main,aut→man,lot0,gbm,transition,179,87
+지료 유량 모드,5,main,aut→man,lot0,gbm,other,1,0
+지료 유량 모드,5,main,aut→man,lot1,rule,normal,8,2
+지료 유량 모드,5,main,aut→man,lot1,rule,transition,202,66
+지료 유량 모드,5,main,aut→man,lot1,rule,other,1,0
+지료 유량 모드,5,main,aut→man,lot1,tree,normal,8,3
+지료 유량 모드,5,main,aut→man,lot1,tree,transition,202,67
+지료 유량 모드,5,main,aut→man,lot1,tree,other,1,0
+지료 유량 모드,5,main,aut→man,lot1,gbm,normal,8,2
+지료 유량 모드,5,main,aut→man,lot1,gbm,transition,202,75
+지료 유량 모드,5,main,aut→man,lot1,gbm,other,1,0
+지료 유량 모드,5,main,aut→man,lot2,rule,normal,17,6
+지료 유량 모드,5,main,aut→man,lot2,rule,transition,215,77
+지료 유량 모드,5,main,aut→man,lot2,rule,other,3,0
+지료 유량 모드,5,main,aut→man,lot2,tree,normal,17,4
+지료 유량 모드,5,main,aut→man,lot2,tree,transition,215,81
+지료 유량 모드,5,main,aut→man,lot2,tree,other,3,0
+지료 유량 모드,5,main,aut→man,lot2,gbm,normal,17,5
+지료 유량 모드,5,main,aut→man,lot2,gbm,transition,215,74
+지료 유량 모드,5,main,aut→man,lot2,gbm,other,3,0
+지료 유량 모드,5,main,aut→man,lot3,rule,normal,15,5
+지료 유량 모드,5,main,aut→man,lot3,rule,transition,211,87
+지료 유량 모드,5,main,aut→man,lot3,rule,other,0,0
+지료 유량 모드,5,main,aut→man,lot3,tree,normal,15,4
+지료 유량 모드,5,main,aut→man,lot3,tree,transition,211,84
+지료 유량 모드,5,main,aut→man,lot3,tree,other,0,0
+지료 유량 모드,5,main,aut→man,lot3,gbm,normal,15,5
+지료 유량 모드,5,main,aut→man,lot3,gbm,transition,211,88
+지료 유량 모드,5,main,aut→man,lot3,gbm,other,0,0
+지료 유량 모드,5,main,aut→man,lot4,rule,normal,12,1
+지료 유량 모드,5,main,aut→man,lot4,rule,transition,192,80
+지료 유량 모드,5,main,aut→man,lot4,rule,other,1,0
+지료 유량 모드,5,main,aut→man,lot4,tree,normal,12,2
+지료 유량 모드,5,main,aut→man,lot4,tree,transition,192,78
+지료 유량 모드,5,main,aut→man,lot4,tree,other,1,0
+지료 유량 모드,5,main,aut→man,lot4,gbm,normal,12,1
+지료 유량 모드,5,main,aut→man,lot4,gbm,transition,192,77
+지료 유량 모드,5,main,aut→man,lot4,gbm,other,1,0
+지료 유량 모드,5,main,man→aut,time,rule,normal,15,1
+지료 유량 모드,5,main,man→aut,time,rule,transition,212,47
+지료 유량 모드,5,main,man→aut,time,rule,other,0,0
+지료 유량 모드,5,main,man→aut,time,tree,normal,15,8
+지료 유량 모드,5,main,man→aut,time,tree,transition,212,90
+지료 유량 모드,5,main,man→aut,time,tree,other,0,0
+지료 유량 모드,5,main,man→aut,time,gbm,normal,15,5
+지료 유량 모드,5,main,man→aut,time,gbm,transition,212,108
+지료 유량 모드,5,main,man→aut,time,gbm,other,0,0
+지료 유량 모드,5,main,man→aut,lot0,rule,normal,7,2
+지료 유량 모드,5,main,man→aut,lot0,rule,transition,182,50
+지료 유량 모드,5,main,man→aut,lot0,rule,other,0,0
+지료 유량 모드,5,main,man→aut,lot0,tree,normal,7,0
+지료 유량 모드,5,main,man→aut,lot0,tree,transition,182,71
+지료 유량 모드,5,main,man→aut,lot0,tree,other,0,0
+지료 유량 모드,5,main,man→aut,lot0,gbm,normal,7,3
+지료 유량 모드,5,main,man→aut,lot0,gbm,transition,182,88
+지료 유량 모드,5,main,man→aut,lot0,gbm,other,0,0
+지료 유량 모드,5,main,man→aut,lot1,rule,normal,6,3
+지료 유량 모드,5,main,man→aut,lot1,rule,transition,158,41
+지료 유량 모드,5,main,man→aut,lot1,rule,other,0,0
+지료 유량 모드,5,main,man→aut,lot1,tree,normal,6,0
+지료 유량 모드,5,main,man→aut,lot1,tree,transition,158,59
+지료 유량 모드,5,main,man→aut,lot1,tree,other,0,0
+지료 유량 모드,5,main,man→aut,lot1,gbm,normal,6,2
+지료 유량 모드,5,main,man→aut,lot1,gbm,transition,158,73
+지료 유량 모드,5,main,man→aut,lot1,gbm,other,0,0
+지료 유량 모드,5,main,man→aut,lot2,rule,normal,12,2
+지료 유량 모드,5,main,man→aut,lot2,rule,transition,169,35
+지료 유량 모드,5,main,man→aut,lot2,rule,other,2,0
+지료 유량 모드,5,main,man→aut,lot2,tree,normal,12,0
+지료 유량 모드,5,main,man→aut,lot2,tree,transition,169,64
+지료 유량 모드,5,main,man→aut,lot2,tree,other,2,0
+지료 유량 모드,5,main,man→aut,lot2,gbm,normal,12,8
+지료 유량 모드,5,main,man→aut,lot2,gbm,transition,169,74
+지료 유량 모드,5,main,man→aut,lot2,gbm,other,2,0
+지료 유량 모드,5,main,man→aut,lot3,rule,normal,14,7
+지료 유량 모드,5,main,man→aut,lot3,rule,transition,165,47
+지료 유량 모드,5,main,man→aut,lot3,rule,other,1,0
+지료 유량 모드,5,main,man→aut,lot3,tree,normal,14,0
+지료 유량 모드,5,main,man→aut,lot3,tree,transition,165,55
+지료 유량 모드,5,main,man→aut,lot3,tree,other,1,0
+지료 유량 모드,5,main,man→aut,lot3,gbm,normal,14,4
+지료 유량 모드,5,main,man→aut,lot3,gbm,transition,165,58
+지료 유량 모드,5,main,man→aut,lot3,gbm,other,1,0
+지료 유량 모드,5,main,man→aut,lot4,rule,normal,10,1
+지료 유량 모드,5,main,man→aut,lot4,rule,transition,173,45
+지료 유량 모드,5,main,man→aut,lot4,rule,other,0,0
+지료 유량 모드,5,main,man→aut,lot4,tree,normal,10,0
+지료 유량 모드,5,main,man→aut,lot4,tree,transition,173,67
+지료 유량 모드,5,main,man→aut,lot4,tree,other,0,0
+지료 유량 모드,5,main,man→aut,lot4,gbm,normal,10,1
+지료 유량 모드,5,main,man→aut,lot4,gbm,transition,173,84
+지료 유량 모드,5,main,man→aut,lot4,gbm,other,0,0
+지료 유량 모드,5,quick,aut→man,time,rule,normal,23,6
+지료 유량 모드,5,quick,aut→man,time,rule,transition,278,121
+지료 유량 모드,5,quick,aut→man,time,rule,other,2,0
+지료 유량 모드,5,quick,aut→man,time,tree,normal,23,6
+지료 유량 모드,5,quick,aut→man,time,tree,transition,278,111
+지료 유량 모드,5,quick,aut→man,time,tree,other,2,0
+지료 유량 모드,5,quick,aut→man,time,gbm,normal,23,5
+지료 유량 모드,5,quick,aut→man,time,gbm,transition,278,105
+지료 유량 모드,5,quick,aut→man,time,gbm,other,2,0
+지료 유량 모드,5,quick,aut→man,lot0,rule,normal,13,4
+지료 유량 모드,5,quick,aut→man,lot0,rule,transition,202,87
+지료 유량 모드,5,quick,aut→man,lot0,rule,other,1,0
+지료 유량 모드,5,quick,aut→man,lot0,tree,normal,13,3
+지료 유량 모드,5,quick,aut→man,lot0,tree,transition,202,77
+지료 유량 모드,5,quick,aut→man,lot0,tree,other,1,0
+지료 유량 모드,5,quick,aut→man,lot0,gbm,normal,13,3
+지료 유량 모드,5,quick,aut→man,lot0,gbm,transition,202,75
+지료 유량 모드,5,quick,aut→man,lot0,gbm,other,1,0
+지료 유량 모드,5,quick,aut→man,lot1,rule,normal,9,2
+지료 유량 모드,5,quick,aut→man,lot1,rule,transition,219,70
+지료 유량 모드,5,quick,aut→man,lot1,rule,other,1,0
+지료 유량 모드,5,quick,aut→man,lot1,tree,normal,9,3
+지료 유량 모드,5,quick,aut→man,lot1,tree,transition,219,68
+지료 유량 모드,5,quick,aut→man,lot1,tree,other,1,0
+지료 유량 모드,5,quick,aut→man,lot1,gbm,normal,9,2
+지료 유량 모드,5,quick,aut→man,lot1,gbm,transition,219,71
+지료 유량 모드,5,quick,aut→man,lot1,gbm,other,1,0
+지료 유량 모드,5,quick,aut→man,lot2,rule,normal,21,6
+지료 유량 모드,5,quick,aut→man,lot2,rule,transition,243,83
+지료 유량 모드,5,quick,aut→man,lot2,rule,other,3,0
+지료 유량 모드,5,quick,aut→man,lot2,tree,normal,21,4
+지료 유량 모드,5,quick,aut→man,lot2,tree,transition,243,83
+지료 유량 모드,5,quick,aut→man,lot2,tree,other,3,0
+지료 유량 모드,5,quick,aut→man,lot2,gbm,normal,21,5
+지료 유량 모드,5,quick,aut→man,lot2,gbm,transition,243,89
+지료 유량 모드,5,quick,aut→man,lot2,gbm,other,3,0
+지료 유량 모드,5,quick,aut→man,lot3,rule,normal,20,6
+지료 유량 모드,5,quick,aut→man,lot3,rule,transition,238,91
+지료 유량 모드,5,quick,aut→man,lot3,rule,other,0,0
+지료 유량 모드,5,quick,aut→man,lot3,tree,normal,20,5
+지료 유량 모드,5,quick,aut→man,lot3,tree,transition,238,84
+지료 유량 모드,5,quick,aut→man,lot3,tree,other,0,0
+지료 유량 모드,5,quick,aut→man,lot3,gbm,normal,20,6
+지료 유량 모드,5,quick,aut→man,lot3,gbm,transition,238,92
+지료 유량 모드,5,quick,aut→man,lot3,gbm,other,0,0
+지료 유량 모드,5,quick,aut→man,lot4,rule,normal,16,2
+지료 유량 모드,5,quick,aut→man,lot4,rule,transition,211,84
+지료 유량 모드,5,quick,aut→man,lot4,rule,other,1,0
+지료 유량 모드,5,quick,aut→man,lot4,tree,normal,16,2
+지료 유량 모드,5,quick,aut→man,lot4,tree,transition,211,79
+지료 유량 모드,5,quick,aut→man,lot4,tree,other,1,0
+지료 유량 모드,5,quick,aut→man,lot4,gbm,normal,16,4
+지료 유량 모드,5,quick,aut→man,lot4,gbm,transition,211,89
+지료 유량 모드,5,quick,aut→man,lot4,gbm,other,1,0
+지료 유량 모드,5,quick,man→aut,time,rule,normal,23,4
+지료 유량 모드,5,quick,man→aut,time,rule,transition,249,61
+지료 유량 모드,5,quick,man→aut,time,rule,other,0,0
+지료 유량 모드,5,quick,man→aut,time,tree,normal,23,12
+지료 유량 모드,5,quick,man→aut,time,tree,transition,249,112
+지료 유량 모드,5,quick,man→aut,time,tree,other,0,0
+지료 유량 모드,5,quick,man→aut,time,gbm,normal,23,4
+지료 유량 모드,5,quick,man→aut,time,gbm,transition,249,135
+지료 유량 모드,5,quick,man→aut,time,gbm,other,0,0
+지료 유량 모드,5,quick,man→aut,lot0,rule,normal,9,7
+지료 유량 모드,5,quick,man→aut,lot0,rule,transition,213,57
+지료 유량 모드,5,quick,man→aut,lot0,rule,other,0,0
+지료 유량 모드,5,quick,man→aut,lot0,tree,normal,9,0
+지료 유량 모드,5,quick,man→aut,lot0,tree,transition,213,84
+지료 유량 모드,5,quick,man→aut,lot0,tree,other,0,0
+지료 유량 모드,5,quick,man→aut,lot0,gbm,normal,9,3
+지료 유량 모드,5,quick,man→aut,lot0,gbm,transition,213,108
+지료 유량 모드,5,quick,man→aut,lot0,gbm,other,0,0
+지료 유량 모드,5,quick,man→aut,lot1,rule,normal,8,4
+지료 유량 모드,5,quick,man→aut,lot1,rule,transition,189,57
+지료 유량 모드,5,quick,man→aut,lot1,rule,other,0,0
+지료 유량 모드,5,quick,man→aut,lot1,tree,normal,8,0
+지료 유량 모드,5,quick,man→aut,lot1,tree,transition,189,72
+지료 유량 모드,5,quick,man→aut,lot1,tree,other,0,0
+지료 유량 모드,5,quick,man→aut,lot1,gbm,normal,8,3
+지료 유량 모드,5,quick,man→aut,lot1,gbm,transition,189,91
+지료 유량 모드,5,quick,man→aut,lot1,gbm,other,0,0
+지료 유량 모드,5,quick,man→aut,lot2,rule,normal,15,3
+지료 유량 모드,5,quick,man→aut,lot2,rule,transition,208,45
+지료 유량 모드,5,quick,man→aut,lot2,rule,other,2,0
+지료 유량 모드,5,quick,man→aut,lot2,tree,normal,15,0
+지료 유량 모드,5,quick,man→aut,lot2,tree,transition,208,81
+지료 유량 모드,5,quick,man→aut,lot2,tree,other,2,0
+지료 유량 모드,5,quick,man→aut,lot2,gbm,normal,15,9
+지료 유량 모드,5,quick,man→aut,lot2,gbm,transition,208,98
+지료 유량 모드,5,quick,man→aut,lot2,gbm,other,2,0
+지료 유량 모드,5,quick,man→aut,lot3,rule,normal,18,10
+지료 유량 모드,5,quick,man→aut,lot3,rule,transition,209,71
+지료 유량 모드,5,quick,man→aut,lot3,rule,other,1,0
+지료 유량 모드,5,quick,man→aut,lot3,tree,normal,18,0
+지료 유량 모드,5,quick,man→aut,lot3,tree,transition,209,78
+지료 유량 모드,5,quick,man→aut,lot3,tree,other,1,0
+지료 유량 모드,5,quick,man→aut,lot3,gbm,normal,18,4
+지료 유량 모드,5,quick,man→aut,lot3,gbm,transition,209,98
+지료 유량 모드,5,quick,man→aut,lot3,gbm,other,1,0
+지료 유량 모드,5,quick,man→aut,lot4,rule,normal,15,4
+지료 유량 모드,5,quick,man→aut,lot4,rule,transition,197,51
+지료 유량 모드,5,quick,man→aut,lot4,rule,other,0,0
+지료 유량 모드,5,quick,man→aut,lot4,tree,normal,15,0
+지료 유량 모드,5,quick,man→aut,lot4,tree,transition,197,81
+지료 유량 모드,5,quick,man→aut,lot4,tree,other,0,0
+지료 유량 모드,5,quick,man→aut,lot4,gbm,normal,15,8
+지료 유량 모드,5,quick,man→aut,lot4,gbm,transition,197,101
+지료 유량 모드,5,quick,man→aut,lot4,gbm,other,0,0
+회분 모드,15,main,aut→man,time,rule,normal,40,2
+회분 모드,15,main,aut→man,time,rule,transition,116,28
+회분 모드,15,main,aut→man,time,rule,other,6,0
+회분 모드,15,main,aut→man,time,tree,normal,40,1
+회분 모드,15,main,aut→man,time,tree,transition,116,32
+회분 모드,15,main,aut→man,time,tree,other,6,0
+회분 모드,15,main,aut→man,time,gbm,normal,40,1
+회분 모드,15,main,aut→man,time,gbm,transition,116,31
+회분 모드,15,main,aut→man,time,gbm,other,6,0
+회분 모드,15,main,aut→man,lot0,rule,normal,36,0
+회분 모드,15,main,aut→man,lot0,rule,transition,79,7
+회분 모드,15,main,aut→man,lot0,rule,other,4,0
+회분 모드,15,main,aut→man,lot0,tree,normal,36,1
+회분 모드,15,main,aut→man,lot0,tree,transition,79,12
+회분 모드,15,main,aut→man,lot0,tree,other,4,0
+회분 모드,15,main,aut→man,lot0,gbm,normal,36,2
+회분 모드,15,main,aut→man,lot0,gbm,transition,79,12
+회분 모드,15,main,aut→man,lot0,gbm,other,4,0
+회분 모드,15,main,aut→man,lot1,rule,normal,38,2
+회분 모드,15,main,aut→man,lot1,rule,transition,94,18
+회분 모드,15,main,aut→man,lot1,rule,other,4,0
+회분 모드,15,main,aut→man,lot1,tree,normal,38,2
+회분 모드,15,main,aut→man,lot1,tree,transition,94,21
+회분 모드,15,main,aut→man,lot1,tree,other,4,0
+회분 모드,15,main,aut→man,lot1,gbm,normal,38,3
+회분 모드,15,main,aut→man,lot1,gbm,transition,94,23
+회분 모드,15,main,aut→man,lot1,gbm,other,4,0
+회분 모드,15,main,aut→man,lot2,rule,normal,47,3
+회분 모드,15,main,aut→man,lot2,rule,transition,94,13
+회분 모드,15,main,aut→man,lot2,rule,other,4,0
+회분 모드,15,main,aut→man,lot2,tree,normal,47,3
+회분 모드,15,main,aut→man,lot2,tree,transition,94,14
+회분 모드,15,main,aut→man,lot2,tree,other,4,0
+회분 모드,15,main,aut→man,lot2,gbm,normal,47,4
+회분 모드,15,main,aut→man,lot2,gbm,transition,94,11
+회분 모드,15,main,aut→man,lot2,gbm,other,4,0
+회분 모드,15,main,aut→man,lot3,rule,normal,34,3
+회분 모드,15,main,aut→man,lot3,rule,transition,93,22
+회분 모드,15,main,aut→man,lot3,rule,other,6,0
+회분 모드,15,main,aut→man,lot3,tree,normal,34,3
+회분 모드,15,main,aut→man,lot3,tree,transition,93,20
+회분 모드,15,main,aut→man,lot3,tree,other,6,0
+회분 모드,15,main,aut→man,lot3,gbm,normal,34,1
+회분 모드,15,main,aut→man,lot3,gbm,transition,93,22
+회분 모드,15,main,aut→man,lot3,gbm,other,6,0
+회분 모드,15,main,aut→man,lot4,rule,normal,46,4
+회분 모드,15,main,aut→man,lot4,rule,transition,104,25
+회분 모드,15,main,aut→man,lot4,rule,other,3,0
+회분 모드,15,main,aut→man,lot4,tree,normal,46,4
+회분 모드,15,main,aut→man,lot4,tree,transition,104,24
+회분 모드,15,main,aut→man,lot4,tree,other,3,0
+회분 모드,15,main,aut→man,lot4,gbm,normal,46,4
+회분 모드,15,main,aut→man,lot4,gbm,transition,104,22
+회분 모드,15,main,aut→man,lot4,gbm,other,3,0
+회분 모드,15,main,man→aut,time,rule,normal,29,11
+회분 모드,15,main,man→aut,time,rule,transition,115,41
+회분 모드,15,main,man→aut,time,rule,other,3,1
+회분 모드,15,main,man→aut,time,tree,normal,29,0
+회분 모드,15,main,man→aut,time,tree,transition,115,41
+회분 모드,15,main,man→aut,time,tree,other,3,0
+회분 모드,15,main,man→aut,time,gbm,normal,29,5
+회분 모드,15,main,man→aut,time,gbm,transition,115,22
+회분 모드,15,main,man→aut,time,gbm,other,3,0
+회분 모드,15,main,man→aut,lot0,rule,normal,22,6
+회분 모드,15,main,man→aut,lot0,rule,transition,103,33
+회분 모드,15,main,man→aut,lot0,rule,other,0,0
+회분 모드,15,main,man→aut,lot0,tree,normal,22,1
+회분 모드,15,main,man→aut,lot0,tree,transition,103,20
+회분 모드,15,main,man→aut,lot0,tree,other,0,0
+회분 모드,15,main,man→aut,lot0,gbm,normal,22,0
+회분 모드,15,main,man→aut,lot0,gbm,transition,103,21
+회분 모드,15,main,man→aut,lot0,gbm,other,0,0
+회분 모드,15,main,man→aut,lot1,rule,normal,24,0
+회분 모드,15,main,man→aut,lot1,rule,transition,103,27
+회분 모드,15,main,man→aut,lot1,rule,other,1,0
+회분 모드,15,main,man→aut,lot1,tree,normal,24,0
+회분 모드,15,main,man→aut,lot1,tree,transition,103,33
+회분 모드,15,main,man→aut,lot1,tree,other,1,0
+회분 모드,15,main,man→aut,lot1,gbm,normal,24,3
+회분 모드,15,main,man→aut,lot1,gbm,transition,103,25
+회분 모드,15,main,man→aut,lot1,gbm,other,1,0
+회분 모드,15,main,man→aut,lot2,rule,normal,24,4
+회분 모드,15,main,man→aut,lot2,rule,transition,102,20
+회분 모드,15,main,man→aut,lot2,rule,other,3,2
+회분 모드,15,main,man→aut,lot2,tree,normal,24,6
+회분 모드,15,main,man→aut,lot2,tree,transition,102,13
+회분 모드,15,main,man→aut,lot2,tree,other,3,0
+회분 모드,15,main,man→aut,lot2,gbm,normal,24,5
+회분 모드,15,main,man→aut,lot2,gbm,transition,102,29
+회분 모드,15,main,man→aut,lot2,gbm,other,3,0
+회분 모드,15,main,man→aut,lot3,rule,normal,25,3
+회분 모드,15,main,man→aut,lot3,rule,transition,99,17
+회분 모드,15,main,man→aut,lot3,rule,other,3,0
+회분 모드,15,main,man→aut,lot3,tree,normal,25,8
+회분 모드,15,main,man→aut,lot3,tree,transition,99,15
+회분 모드,15,main,man→aut,lot3,tree,other,3,0
+회분 모드,15,main,man→aut,lot3,gbm,normal,25,2
+회분 모드,15,main,man→aut,lot3,gbm,transition,99,19
+회분 모드,15,main,man→aut,lot3,gbm,other,3,0
+회분 모드,15,main,man→aut,lot4,rule,normal,16,6
+회분 모드,15,main,man→aut,lot4,rule,transition,105,34
+회분 모드,15,main,man→aut,lot4,rule,other,1,0
+회분 모드,15,main,man→aut,lot4,tree,normal,16,5
+회분 모드,15,main,man→aut,lot4,tree,transition,105,23
+회분 모드,15,main,man→aut,lot4,tree,other,1,0
+회분 모드,15,main,man→aut,lot4,gbm,normal,16,3
+회분 모드,15,main,man→aut,lot4,gbm,transition,105,23
+회분 모드,15,main,man→aut,lot4,gbm,other,1,0
+회분 모드,5,main,aut→man,time,rule,normal,40,1
+회분 모드,5,main,aut→man,time,rule,transition,116,32
+회분 모드,5,main,aut→man,time,rule,other,6,0
+회분 모드,5,main,aut→man,time,tree,normal,40,3
+회분 모드,5,main,aut→man,time,tree,transition,116,34
+회분 모드,5,main,aut→man,time,tree,other,6,0
+회분 모드,5,main,aut→man,time,gbm,normal,40,0
+회분 모드,5,main,aut→man,time,gbm,transition,116,22
+회분 모드,5,main,aut→man,time,gbm,other,6,0
+회분 모드,5,main,aut→man,lot0,rule,normal,36,0
+회분 모드,5,main,aut→man,lot0,rule,transition,81,14
+회분 모드,5,main,aut→man,lot0,rule,other,4,0
+회분 모드,5,main,aut→man,lot0,tree,normal,36,0
+회분 모드,5,main,aut→man,lot0,tree,transition,81,10
+회분 모드,5,main,aut→man,lot0,tree,other,4,0
+회분 모드,5,main,aut→man,lot0,gbm,normal,36,1
+회분 모드,5,main,aut→man,lot0,gbm,transition,81,15
+회분 모드,5,main,aut→man,lot0,gbm,other,4,0
+회분 모드,5,main,aut→man,lot1,rule,normal,38,1
+회분 모드,5,main,aut→man,lot1,rule,transition,95,26
+회분 모드,5,main,aut→man,lot1,rule,other,4,0
+회분 모드,5,main,aut→man,lot1,tree,normal,38,2
+회분 모드,5,main,aut→man,lot1,tree,transition,95,15
+회분 모드,5,main,aut→man,lot1,tree,other,4,0
+회분 모드,5,main,aut→man,lot1,gbm,normal,38,1
+회분 모드,5,main,aut→man,lot1,gbm,transition,95,23
+회분 모드,5,main,aut→man,lot1,gbm,other,4,0
+회분 모드,5,main,aut→man,lot2,rule,normal,47,2
+회분 모드,5,main,aut→man,lot2,rule,transition,95,18
+회분 모드,5,main,aut→man,lot2,rule,other,4,0
+회분 모드,5,main,aut→man,lot2,tree,normal,47,2
+회분 모드,5,main,aut→man,lot2,tree,transition,95,16
+회분 모드,5,main,aut→man,lot2,tree,other,4,0
+회분 모드,5,main,aut→man,lot2,gbm,normal,47,1
+회분 모드,5,main,aut→man,lot2,gbm,transition,95,7
+회분 모드,5,main,aut→man,lot2,gbm,other,4,0
+회분 모드,5,main,aut→man,lot3,rule,normal,34,1
+회분 모드,5,main,aut→man,lot3,rule,transition,93,22
+회분 모드,5,main,aut→man,lot3,rule,other,6,0
+회분 모드,5,main,aut→man,lot3,tree,normal,34,1
+회분 모드,5,main,aut→man,lot3,tree,transition,93,20
+회분 모드,5,main,aut→man,lot3,tree,other,6,0
+회분 모드,5,main,aut→man,lot3,gbm,normal,34,1
+회분 모드,5,main,aut→man,lot3,gbm,transition,93,19
+회분 모드,5,main,aut→man,lot3,gbm,other,6,0
+회분 모드,5,main,aut→man,lot4,rule,normal,47,2
+회분 모드,5,main,aut→man,lot4,rule,transition,106,19
+회분 모드,5,main,aut→man,lot4,rule,other,3,0
+회분 모드,5,main,aut→man,lot4,tree,normal,47,0
+회분 모드,5,main,aut→man,lot4,tree,transition,106,22
+회분 모드,5,main,aut→man,lot4,tree,other,3,0
+회분 모드,5,main,aut→man,lot4,gbm,normal,47,0
+회분 모드,5,main,aut→man,lot4,gbm,transition,106,22
+회분 모드,5,main,aut→man,lot4,gbm,other,3,0
+회분 모드,5,main,man→aut,time,rule,normal,29,6
+회분 모드,5,main,man→aut,time,rule,transition,123,31
+회분 모드,5,main,man→aut,time,rule,other,3,0
+회분 모드,5,main,man→aut,time,tree,normal,29,0
+회분 모드,5,main,man→aut,time,tree,transition,123,18
+회분 모드,5,main,man→aut,time,tree,other,3,0
+회분 모드,5,main,man→aut,time,gbm,normal,29,1
+회분 모드,5,main,man→aut,time,gbm,transition,123,26
+회분 모드,5,main,man→aut,time,gbm,other,3,0
+회분 모드,5,main,man→aut,lot0,rule,normal,22,6
+회분 모드,5,main,man→aut,lot0,rule,transition,112,29
+회분 모드,5,main,man→aut,lot0,rule,other,0,0
+회분 모드,5,main,man→aut,lot0,tree,normal,22,0
+회분 모드,5,main,man→aut,lot0,tree,transition,112,14
+회분 모드,5,main,man→aut,lot0,tree,other,0,0
+회분 모드,5,main,man→aut,lot0,gbm,normal,22,1
+회분 모드,5,main,man→aut,lot0,gbm,transition,112,12
+회분 모드,5,main,man→aut,lot0,gbm,other,0,0
+회분 모드,5,main,man→aut,lot1,rule,normal,26,0
+회분 모드,5,main,man→aut,lot1,rule,transition,109,6
+회분 모드,5,main,man→aut,lot1,rule,other,1,0
+회분 모드,5,main,man→aut,lot1,tree,normal,26,0
+회분 모드,5,main,man→aut,lot1,tree,transition,109,17
+회분 모드,5,main,man→aut,lot1,tree,other,1,0
+회분 모드,5,main,man→aut,lot1,gbm,normal,26,3
+회분 모드,5,main,man→aut,lot1,gbm,transition,109,16
+회분 모드,5,main,man→aut,lot1,gbm,other,1,0
+회분 모드,5,main,man→aut,lot2,rule,normal,27,7
+회분 모드,5,main,man→aut,lot2,rule,transition,111,27
+회분 모드,5,main,man→aut,lot2,rule,other,3,0
+회분 모드,5,main,man→aut,lot2,tree,normal,27,3
+회분 모드,5,main,man→aut,lot2,tree,transition,111,11
+회분 모드,5,main,man→aut,lot2,tree,other,3,0
+회분 모드,5,main,man→aut,lot2,gbm,normal,27,2
+회분 모드,5,main,man→aut,lot2,gbm,transition,111,11
+회분 모드,5,main,man→aut,lot2,gbm,other,3,0
+회분 모드,5,main,man→aut,lot3,rule,normal,25,3
+회분 모드,5,main,man→aut,lot3,rule,transition,105,19
+회분 모드,5,main,man→aut,lot3,rule,other,3,0
+회분 모드,5,main,man→aut,lot3,tree,normal,25,3
+회분 모드,5,main,man→aut,lot3,tree,transition,105,11
+회분 모드,5,main,man→aut,lot3,tree,other,3,0
+회분 모드,5,main,man→aut,lot3,gbm,normal,25,0
+회분 모드,5,main,man→aut,lot3,gbm,transition,105,10
+회분 모드,5,main,man→aut,lot3,gbm,other,3,0
+회분 모드,5,main,man→aut,lot4,rule,normal,17,2
+회분 모드,5,main,man→aut,lot4,rule,transition,115,21
+회분 모드,5,main,man→aut,lot4,rule,other,1,0
+회분 모드,5,main,man→aut,lot4,tree,normal,17,4
+회분 모드,5,main,man→aut,lot4,tree,transition,115,11
+회분 모드,5,main,man→aut,lot4,tree,other,1,0
+회분 모드,5,main,man→aut,lot4,gbm,normal,17,2
+회분 모드,5,main,man→aut,lot4,gbm,transition,115,20
+회분 모드,5,main,man→aut,lot4,gbm,other,1,0
+회분 모드,5,quick,aut→man,time,rule,normal,57,2
+회분 모드,5,quick,aut→man,time,rule,transition,160,37
+회분 모드,5,quick,aut→man,time,rule,other,8,0
+회분 모드,5,quick,aut→man,time,tree,normal,57,2
+회분 모드,5,quick,aut→man,time,tree,transition,160,40
+회분 모드,5,quick,aut→man,time,tree,other,8,0
+회분 모드,5,quick,aut→man,time,gbm,normal,57,2
+회분 모드,5,quick,aut→man,time,gbm,transition,160,37
+회분 모드,5,quick,aut→man,time,gbm,other,8,0
+회분 모드,5,quick,aut→man,lot0,rule,normal,44,0
+회분 모드,5,quick,aut→man,lot0,rule,transition,106,17
+회분 모드,5,quick,aut→man,lot0,rule,other,5,0
+회분 모드,5,quick,aut→man,lot0,tree,normal,44,2
+회분 모드,5,quick,aut→man,lot0,tree,transition,106,21
+회분 모드,5,quick,aut→man,lot0,tree,other,5,0
+회분 모드,5,quick,aut→man,lot0,gbm,normal,44,0
+회분 모드,5,quick,aut→man,lot0,gbm,transition,106,24
+회분 모드,5,quick,aut→man,lot0,gbm,other,5,0
+회분 모드,5,quick,aut→man,lot1,rule,normal,49,1
+회분 모드,5,quick,aut→man,lot1,rule,transition,123,31
+회분 모드,5,quick,aut→man,lot1,rule,other,4,0
+회분 모드,5,quick,aut→man,lot1,tree,normal,49,2
+회분 모드,5,quick,aut→man,lot1,tree,transition,123,28
+회분 모드,5,quick,aut→man,lot1,tree,other,4,0
+회분 모드,5,quick,aut→man,lot1,gbm,normal,49,1
+회분 모드,5,quick,aut→man,lot1,gbm,transition,123,27
+회분 모드,5,quick,aut→man,lot1,gbm,other,4,0
+회분 모드,5,quick,aut→man,lot2,rule,normal,56,2
+회분 모드,5,quick,aut→man,lot2,rule,transition,139,24
+회분 모드,5,quick,aut→man,lot2,rule,other,8,0
+회분 모드,5,quick,aut→man,lot2,tree,normal,56,2
+회분 모드,5,quick,aut→man,lot2,tree,transition,139,25
+회분 모드,5,quick,aut→man,lot2,tree,other,8,0
+회분 모드,5,quick,aut→man,lot2,gbm,normal,56,2
+회분 모드,5,quick,aut→man,lot2,gbm,transition,139,22
+회분 모드,5,quick,aut→man,lot2,gbm,other,8,0
+회분 모드,5,quick,aut→man,lot3,rule,normal,46,3
+회분 모드,5,quick,aut→man,lot3,rule,transition,139,35
+회분 모드,5,quick,aut→man,lot3,rule,other,7,0
+회분 모드,5,quick,aut→man,lot3,tree,normal,46,2
+회분 모드,5,quick,aut→man,lot3,tree,transition,139,29
+회분 모드,5,quick,aut→man,lot3,tree,other,7,0
+회분 모드,5,quick,aut→man,lot3,gbm,normal,46,1
+회분 모드,5,quick,aut→man,lot3,gbm,transition,139,33
+회분 모드,5,quick,aut→man,lot3,gbm,other,7,0
+회분 모드,5,quick,aut→man,lot4,rule,normal,60,5
+회분 모드,5,quick,aut→man,lot4,rule,transition,143,24
+회분 모드,5,quick,aut→man,lot4,rule,other,3,0
+회분 모드,5,quick,aut→man,lot4,tree,normal,60,2
+회분 모드,5,quick,aut→man,lot4,tree,transition,143,28
+회분 모드,5,quick,aut→man,lot4,tree,other,3,0
+회분 모드,5,quick,aut→man,lot4,gbm,normal,60,2
+회분 모드,5,quick,aut→man,lot4,gbm,transition,143,35
+회분 모드,5,quick,aut→man,lot4,gbm,other,3,0
+회분 모드,5,quick,man→aut,time,rule,normal,45,6
+회분 모드,5,quick,man→aut,time,rule,transition,176,39
+회분 모드,5,quick,man→aut,time,rule,other,5,2
+회분 모드,5,quick,man→aut,time,tree,normal,45,15
+회분 모드,5,quick,man→aut,time,tree,transition,176,47
+회분 모드,5,quick,man→aut,time,tree,other,5,3
+회분 모드,5,quick,man→aut,time,gbm,normal,45,15
+회분 모드,5,quick,man→aut,time,gbm,transition,176,47
+회분 모드,5,quick,man→aut,time,gbm,other,5,3
+회분 모드,5,quick,man→aut,lot0,rule,normal,31,4
+회분 모드,5,quick,man→aut,lot0,rule,transition,138,27
+회분 모드,5,quick,man→aut,lot0,rule,other,1,1
+회분 모드,5,quick,man→aut,lot0,tree,normal,31,9
+회분 모드,5,quick,man→aut,lot0,tree,transition,138,30
+회분 모드,5,quick,man→aut,lot0,tree,other,1,1
+회분 모드,5,quick,man→aut,lot0,gbm,normal,31,9
+회분 모드,5,quick,man→aut,lot0,gbm,transition,138,30
+회분 모드,5,quick,man→aut,lot0,gbm,other,1,1
+회분 모드,5,quick,man→aut,lot1,rule,normal,36,2
+회분 모드,5,quick,man→aut,lot1,rule,transition,139,30
+회분 모드,5,quick,man→aut,lot1,rule,other,1,0
+회분 모드,5,quick,man→aut,lot1,tree,normal,36,10
+회분 모드,5,quick,man→aut,lot1,tree,transition,139,27
+회분 모드,5,quick,man→aut,lot1,tree,other,1,1
+회분 모드,5,quick,man→aut,lot1,gbm,normal,36,3
+회분 모드,5,quick,man→aut,lot1,gbm,transition,139,37
+회분 모드,5,quick,man→aut,lot1,gbm,other,1,0
+회분 모드,5,quick,man→aut,lot2,rule,normal,35,7
+회분 모드,5,quick,man→aut,lot2,rule,transition,150,17
+회분 모드,5,quick,man→aut,lot2,rule,other,7,2
+회분 모드,5,quick,man→aut,lot2,tree,normal,35,11
+회분 모드,5,quick,man→aut,lot2,tree,transition,150,41
+회분 모드,5,quick,man→aut,lot2,tree,other,7,4
+회분 모드,5,quick,man→aut,lot2,gbm,normal,35,12
+회분 모드,5,quick,man→aut,lot2,gbm,transition,150,41
+회분 모드,5,quick,man→aut,lot2,gbm,other,7,4
+회분 모드,5,quick,man→aut,lot3,rule,normal,36,4
+회분 모드,5,quick,man→aut,lot3,rule,transition,152,38
+회분 모드,5,quick,man→aut,lot3,rule,other,5,1
+회분 모드,5,quick,man→aut,lot3,tree,normal,36,10
+회분 모드,5,quick,man→aut,lot3,tree,transition,152,46
+회분 모드,5,quick,man→aut,lot3,tree,other,5,1
+회분 모드,5,quick,man→aut,lot3,gbm,normal,36,1
+회분 모드,5,quick,man→aut,lot3,gbm,transition,152,46
+회분 모드,5,quick,man→aut,lot3,gbm,other,5,2
+회분 모드,5,quick,man→aut,lot4,rule,normal,30,3
+회분 모드,5,quick,man→aut,lot4,rule,transition,149,30
+회분 모드,5,quick,man→aut,lot4,rule,other,1,0
+회분 모드,5,quick,man→aut,lot4,tree,normal,30,16
+회분 모드,5,quick,man→aut,lot4,tree,transition,149,43
+회분 모드,5,quick,man→aut,lot4,tree,other,1,0
+회분 모드,5,quick,man→aut,lot4,gbm,normal,30,7
+회분 모드,5,quick,man→aut,lot4,gbm,transition,149,52
+회분 모드,5,quick,man→aut,lot4,gbm,other,1,0
+후건조 압력 모드,15,main,aut→man,time,rule,normal,17,5
+후건조 압력 모드,15,main,aut→man,time,rule,transition,177,47
+후건조 압력 모드,15,main,aut→man,time,rule,other,3,2
+후건조 압력 모드,15,main,aut→man,time,tree,normal,17,2
+후건조 압력 모드,15,main,aut→man,time,tree,transition,177,38
+후건조 압력 모드,15,main,aut→man,time,tree,other,3,2
+후건조 압력 모드,15,main,aut→man,time,gbm,normal,17,2
+후건조 압력 모드,15,main,aut→man,time,gbm,transition,177,41
+후건조 압력 모드,15,main,aut→man,time,gbm,other,3,1
+후건조 압력 모드,15,main,aut→man,lot0,rule,normal,5,3
+후건조 압력 모드,15,main,aut→man,lot0,rule,transition,86,31
+후건조 압력 모드,15,main,aut→man,lot0,rule,other,0,0
+후건조 압력 모드,15,main,aut→man,lot0,tree,normal,5,3
+후건조 압력 모드,15,main,aut→man,lot0,tree,transition,86,28
+후건조 압력 모드,15,main,aut→man,lot0,tree,other,0,0
+후건조 압력 모드,15,main,aut→man,lot0,gbm,normal,5,3
+후건조 압력 모드,15,main,aut→man,lot0,gbm,transition,86,25
+후건조 압력 모드,15,main,aut→man,lot0,gbm,other,0,0
+후건조 압력 모드,15,main,aut→man,lot1,rule,normal,6,2
+후건조 압력 모드,15,main,aut→man,lot1,rule,transition,106,22
+후건조 압력 모드,15,main,aut→man,lot1,rule,other,1,0
+후건조 압력 모드,15,main,aut→man,lot1,tree,normal,6,2
+후건조 압력 모드,15,main,aut→man,lot1,tree,transition,106,23
+후건조 압력 모드,15,main,aut→man,lot1,tree,other,1,0
+후건조 압력 모드,15,main,aut→man,lot1,gbm,normal,6,2
+후건조 압력 모드,15,main,aut→man,lot1,gbm,transition,106,23
+후건조 압력 모드,15,main,aut→man,lot1,gbm,other,1,0
+후건조 압력 모드,15,main,aut→man,lot2,rule,normal,16,7
+후건조 압력 모드,15,main,aut→man,lot2,rule,transition,113,43
+후건조 압력 모드,15,main,aut→man,lot2,rule,other,2,2
+후건조 압력 모드,15,main,aut→man,lot2,tree,normal,16,4
+후건조 압력 모드,15,main,aut→man,lot2,tree,transition,113,41
+후건조 압력 모드,15,main,aut→man,lot2,tree,other,2,2
+후건조 압력 모드,15,main,aut→man,lot2,gbm,normal,16,4
+후건조 압력 모드,15,main,aut→man,lot2,gbm,transition,113,25
+후건조 압력 모드,15,main,aut→man,lot2,gbm,other,2,1
+후건조 압력 모드,15,main,aut→man,lot3,rule,normal,7,5
+후건조 압력 모드,15,main,aut→man,lot3,rule,transition,117,42
+후건조 압력 모드,15,main,aut→man,lot3,rule,other,2,0
+후건조 압력 모드,15,main,aut→man,lot3,tree,normal,7,1
+후건조 압력 모드,15,main,aut→man,lot3,tree,transition,117,33
+후건조 압력 모드,15,main,aut→man,lot3,tree,other,2,0
+후건조 압력 모드,15,main,aut→man,lot3,gbm,normal,7,1
+후건조 압력 모드,15,main,aut→man,lot3,gbm,transition,117,33
+후건조 압력 모드,15,main,aut→man,lot3,gbm,other,2,0
+후건조 압력 모드,15,main,aut→man,lot4,rule,normal,13,8
+후건조 압력 모드,15,main,aut→man,lot4,rule,transition,90,37
+후건조 압력 모드,15,main,aut→man,lot4,rule,other,0,0
+후건조 압력 모드,15,main,aut→man,lot4,tree,normal,13,6
+후건조 압력 모드,15,main,aut→man,lot4,tree,transition,90,35
+후건조 압력 모드,15,main,aut→man,lot4,tree,other,0,0
+후건조 압력 모드,15,main,aut→man,lot4,gbm,normal,13,7
+후건조 압력 모드,15,main,aut→man,lot4,gbm,transition,90,32
+후건조 압력 모드,15,main,aut→man,lot4,gbm,other,0,0
+후건조 압력 모드,15,main,man→aut,time,rule,normal,17,10
+후건조 압력 모드,15,main,man→aut,time,rule,transition,114,34
+후건조 압력 모드,15,main,man→aut,time,rule,other,2,1
+후건조 압력 모드,15,main,man→aut,time,tree,normal,17,0
+후건조 압력 모드,15,main,man→aut,time,tree,transition,114,42
+후건조 압력 모드,15,main,man→aut,time,tree,other,2,0
+후건조 압력 모드,15,main,man→aut,time,gbm,normal,17,10
+후건조 압력 모드,15,main,man→aut,time,gbm,transition,114,31
+후건조 압력 모드,15,main,man→aut,time,gbm,other,2,1
+후건조 압력 모드,15,main,man→aut,lot0,rule,normal,4,2
+후건조 압력 모드,15,main,man→aut,lot0,rule,transition,75,16
+후건조 압력 모드,15,main,man→aut,lot0,rule,other,1,1
+후건조 압력 모드,15,main,man→aut,lot0,tree,normal,4,2
+후건조 압력 모드,15,main,man→aut,lot0,tree,transition,75,33
+후건조 압력 모드,15,main,man→aut,lot0,tree,other,1,0
+후건조 압력 모드,15,main,man→aut,lot0,gbm,normal,4,2
+후건조 압력 모드,15,main,man→aut,lot0,gbm,transition,75,12
+후건조 압력 모드,15,main,man→aut,lot0,gbm,other,1,0
+후건조 압력 모드,15,main,man→aut,lot1,rule,normal,5,1
+후건조 압력 모드,15,main,man→aut,lot1,rule,transition,68,12
+후건조 압력 모드,15,main,man→aut,lot1,rule,other,0,0
+후건조 압력 모드,15,main,man→aut,lot1,tree,normal,5,1
+후건조 압력 모드,15,main,man→aut,lot1,tree,transition,68,25
+후건조 압력 모드,15,main,man→aut,lot1,tree,other,0,0
+후건조 압력 모드,15,main,man→aut,lot1,gbm,normal,5,1
+후건조 압력 모드,15,main,man→aut,lot1,gbm,transition,68,14
+후건조 압력 모드,15,main,man→aut,lot1,gbm,other,0,0
+후건조 압력 모드,15,main,man→aut,lot2,rule,normal,12,7
+후건조 압력 모드,15,main,man→aut,lot2,rule,transition,62,18
+후건조 압력 모드,15,main,man→aut,lot2,rule,other,2,1
+후건조 압력 모드,15,main,man→aut,lot2,tree,normal,12,0
+후건조 압력 모드,15,main,man→aut,lot2,tree,transition,62,25
+후건조 압력 모드,15,main,man→aut,lot2,tree,other,2,0
+후건조 압력 모드,15,main,man→aut,lot2,gbm,normal,12,2
+후건조 압력 모드,15,main,man→aut,lot2,gbm,transition,62,23
+후건조 압력 모드,15,main,man→aut,lot2,gbm,other,2,0
+후건조 압력 모드,15,main,man→aut,lot3,rule,normal,9,6
+후건조 압력 모드,15,main,man→aut,lot3,rule,transition,67,21
+후건조 압력 모드,15,main,man→aut,lot3,rule,other,1,0
+후건조 압력 모드,15,main,man→aut,lot3,tree,normal,9,3
+후건조 압력 모드,15,main,man→aut,lot3,tree,transition,67,23
+후건조 압력 모드,15,main,man→aut,lot3,tree,other,1,0
+후건조 압력 모드,15,main,man→aut,lot3,gbm,normal,9,2
+후건조 압력 모드,15,main,man→aut,lot3,gbm,transition,67,28
+후건조 압력 모드,15,main,man→aut,lot3,gbm,other,1,0
+후건조 압력 모드,15,main,man→aut,lot4,rule,normal,10,8
+후건조 압력 모드,15,main,man→aut,lot4,rule,transition,68,17
+후건조 압력 모드,15,main,man→aut,lot4,rule,other,0,0
+후건조 압력 모드,15,main,man→aut,lot4,tree,normal,10,3
+후건조 압력 모드,15,main,man→aut,lot4,tree,transition,68,25
+후건조 압력 모드,15,main,man→aut,lot4,tree,other,0,0
+후건조 압력 모드,15,main,man→aut,lot4,gbm,normal,10,2
+후건조 압력 모드,15,main,man→aut,lot4,gbm,transition,68,22
+후건조 압력 모드,15,main,man→aut,lot4,gbm,other,0,0
+후건조 압력 모드,5,main,aut→man,time,rule,normal,17,3
+후건조 압력 모드,5,main,aut→man,time,rule,transition,177,63
+후건조 압력 모드,5,main,aut→man,time,rule,other,4,1
+후건조 압력 모드,5,main,aut→man,time,tree,normal,17,1
+후건조 압력 모드,5,main,aut→man,time,tree,transition,177,55
+후건조 압력 모드,5,main,aut→man,time,tree,other,4,1
+후건조 압력 모드,5,main,aut→man,time,gbm,normal,17,2
+후건조 압력 모드,5,main,aut→man,time,gbm,transition,177,55
+후건조 압력 모드,5,main,aut→man,time,gbm,other,4,0
+후건조 압력 모드,5,main,aut→man,lot0,rule,normal,5,1
+후건조 압력 모드,5,main,aut→man,lot0,rule,transition,87,35
+후건조 압력 모드,5,main,aut→man,lot0,rule,other,1,0
+후건조 압력 모드,5,main,aut→man,lot0,tree,normal,5,1
+후건조 압력 모드,5,main,aut→man,lot0,tree,transition,87,30
+후건조 압력 모드,5,main,aut→man,lot0,tree,other,1,0
+후건조 압력 모드,5,main,aut→man,lot0,gbm,normal,5,1
+후건조 압력 모드,5,main,aut→man,lot0,gbm,transition,87,32
+후건조 압력 모드,5,main,aut→man,lot0,gbm,other,1,0
+후건조 압력 모드,5,main,aut→man,lot1,rule,normal,6,1
+후건조 압력 모드,5,main,aut→man,lot1,rule,transition,107,37
+후건조 압력 모드,5,main,aut→man,lot1,rule,other,1,0
+후건조 압력 모드,5,main,aut→man,lot1,tree,normal,6,1
+후건조 압력 모드,5,main,aut→man,lot1,tree,transition,107,37
+후건조 압력 모드,5,main,aut→man,lot1,tree,other,1,0
+후건조 압력 모드,5,main,aut→man,lot1,gbm,normal,6,1
+후건조 압력 모드,5,main,aut→man,lot1,gbm,transition,107,32
+후건조 압력 모드,5,main,aut→man,lot1,gbm,other,1,0
+후건조 압력 모드,5,main,aut→man,lot2,rule,normal,16,8
+후건조 압력 모드,5,main,aut→man,lot2,rule,transition,115,51
+후건조 압력 모드,5,main,aut→man,lot2,rule,other,2,1
+후건조 압력 모드,5,main,aut→man,lot2,tree,normal,16,4
+후건조 압력 모드,5,main,aut→man,lot2,tree,transition,115,47
+후건조 압력 모드,5,main,aut→man,lot2,tree,other,2,1
+후건조 압력 모드,5,main,aut→man,lot2,gbm,normal,16,6
+후건조 압력 모드,5,main,aut→man,lot2,gbm,transition,115,43
+후건조 압력 모드,5,main,aut→man,lot2,gbm,other,2,0
+후건조 압력 모드,5,main,aut→man,lot3,rule,normal,7,1
+후건조 압력 모드,5,main,aut→man,lot3,rule,transition,117,52
+후건조 압력 모드,5,main,aut→man,lot3,rule,other,2,0
+후건조 압력 모드,5,main,aut→man,lot3,tree,normal,7,2
+후건조 압력 모드,5,main,aut→man,lot3,tree,transition,117,52
+후건조 압력 모드,5,main,aut→man,lot3,tree,other,2,0
+후건조 압력 모드,5,main,aut→man,lot3,gbm,normal,7,1
+후건조 압력 모드,5,main,aut→man,lot3,gbm,transition,117,41
+후건조 압력 모드,5,main,aut→man,lot3,gbm,other,2,0
+후건조 압력 모드,5,main,aut→man,lot4,rule,normal,14,7
+후건조 압력 모드,5,main,aut→man,lot4,rule,transition,90,39
+후건조 압력 모드,5,main,aut→man,lot4,rule,other,0,0
+후건조 압력 모드,5,main,aut→man,lot4,tree,normal,14,6
+후건조 압력 모드,5,main,aut→man,lot4,tree,transition,90,38
+후건조 압력 모드,5,main,aut→man,lot4,tree,other,0,0
+후건조 압력 모드,5,main,aut→man,lot4,gbm,normal,14,7
+후건조 압력 모드,5,main,aut→man,lot4,gbm,transition,90,37
+후건조 압력 모드,5,main,aut→man,lot4,gbm,other,0,0
+후건조 압력 모드,5,main,man→aut,time,rule,normal,17,2
+후건조 압력 모드,5,main,man→aut,time,rule,transition,149,11
+후건조 압력 모드,5,main,man→aut,time,rule,other,2,0
+후건조 압력 모드,5,main,man→aut,time,tree,normal,17,2
+후건조 압력 모드,5,main,man→aut,time,tree,transition,149,43
+후건조 압력 모드,5,main,man→aut,time,tree,other,2,0
+후건조 압력 모드,5,main,man→aut,time,gbm,normal,17,7
+후건조 압력 모드,5,main,man→aut,time,gbm,transition,149,49
+후건조 압력 모드,5,main,man→aut,time,gbm,other,2,0
+후건조 압력 모드,5,main,man→aut,lot0,rule,normal,5,1
+후건조 압력 모드,5,main,man→aut,lot0,rule,transition,93,11
+후건조 압력 모드,5,main,man→aut,lot0,rule,other,1,0
+후건조 압력 모드,5,main,man→aut,lot0,tree,normal,5,0
+후건조 압력 모드,5,main,man→aut,lot0,tree,transition,93,31
+후건조 압력 모드,5,main,man→aut,lot0,tree,other,1,0
+후건조 압력 모드,5,main,man→aut,lot0,gbm,normal,5,3
+후건조 압력 모드,5,main,man→aut,lot0,gbm,transition,93,31
+후건조 압력 모드,5,main,man→aut,lot0,gbm,other,1,0
+후건조 압력 모드,5,main,man→aut,lot1,rule,normal,5,0
+후건조 압력 모드,5,main,man→aut,lot1,rule,transition,85,20
+후건조 압력 모드,5,main,man→aut,lot1,rule,other,0,0
+후건조 압력 모드,5,main,man→aut,lot1,tree,normal,5,0
+후건조 압력 모드,5,main,man→aut,lot1,tree,transition,85,30
+후건조 압력 모드,5,main,man→aut,lot1,tree,other,0,0
+후건조 압력 모드,5,main,man→aut,lot1,gbm,normal,5,1
+후건조 압력 모드,5,main,man→aut,lot1,gbm,transition,85,30
+후건조 압력 모드,5,main,man→aut,lot1,gbm,other,0,0
+후건조 압력 모드,5,main,man→aut,lot2,rule,normal,12,4
+후건조 압력 모드,5,main,man→aut,lot2,rule,transition,85,7
+후건조 압력 모드,5,main,man→aut,lot2,rule,other,2,0
+후건조 압력 모드,5,main,man→aut,lot2,tree,normal,12,5
+후건조 압력 모드,5,main,man→aut,lot2,tree,transition,85,28
+후건조 압력 모드,5,main,man→aut,lot2,tree,other,2,0
+후건조 압력 모드,5,main,man→aut,lot2,gbm,normal,12,3
+후건조 압력 모드,5,main,man→aut,lot2,gbm,transition,85,27
+후건조 압력 모드,5,main,man→aut,lot2,gbm,other,2,0
+후건조 압력 모드,5,main,man→aut,lot3,rule,normal,9,4
+후건조 압력 모드,5,main,man→aut,lot3,rule,transition,87,15
+후건조 압력 모드,5,main,man→aut,lot3,rule,other,1,0
+후건조 압력 모드,5,main,man→aut,lot3,tree,normal,9,0
+후건조 압력 모드,5,main,man→aut,lot3,tree,transition,87,27
+후건조 압력 모드,5,main,man→aut,lot3,tree,other,1,0
+후건조 압력 모드,5,main,man→aut,lot3,gbm,normal,9,6
+후건조 압력 모드,5,main,man→aut,lot3,gbm,transition,87,34
+후건조 압력 모드,5,main,man→aut,lot3,gbm,other,1,0
+후건조 압력 모드,5,main,man→aut,lot4,rule,normal,10,2
+후건조 압력 모드,5,main,man→aut,lot4,rule,transition,87,16
+후건조 압력 모드,5,main,man→aut,lot4,rule,other,0,0
+후건조 압력 모드,5,main,man→aut,lot4,tree,normal,10,0
+후건조 압력 모드,5,main,man→aut,lot4,tree,transition,87,28
+후건조 압력 모드,5,main,man→aut,lot4,tree,other,0,0
+후건조 압력 모드,5,main,man→aut,lot4,gbm,normal,10,2
+후건조 압력 모드,5,main,man→aut,lot4,gbm,transition,87,23
+후건조 압력 모드,5,main,man→aut,lot4,gbm,other,0,0
+후건조 압력 모드,5,quick,aut→man,time,rule,normal,17,3
+후건조 압력 모드,5,quick,aut→man,time,rule,transition,197,68
+후건조 압력 모드,5,quick,aut→man,time,rule,other,4,1
+후건조 압력 모드,5,quick,aut→man,time,tree,normal,17,1
+후건조 압력 모드,5,quick,aut→man,time,tree,transition,197,56
+후건조 압력 모드,5,quick,aut→man,time,tree,other,4,1
+후건조 압력 모드,5,quick,aut→man,time,gbm,normal,17,1
+후건조 압력 모드,5,quick,aut→man,time,gbm,transition,197,56
+후건조 압력 모드,5,quick,aut→man,time,gbm,other,4,1
+후건조 압력 모드,5,quick,aut→man,lot0,rule,normal,7,2
+후건조 압력 모드,5,quick,aut→man,lot0,rule,transition,100,38
+후건조 압력 모드,5,quick,aut→man,lot0,rule,other,1,0
+후건조 압력 모드,5,quick,aut→man,lot0,tree,normal,7,1
+후건조 압력 모드,5,quick,aut→man,lot0,tree,transition,100,27
+후건조 압력 모드,5,quick,aut→man,lot0,tree,other,1,0
+후건조 압력 모드,5,quick,aut→man,lot0,gbm,normal,7,2
+후건조 압력 모드,5,quick,aut→man,lot0,gbm,transition,100,24
+후건조 압력 모드,5,quick,aut→man,lot0,gbm,other,1,0
+후건조 압력 모드,5,quick,aut→man,lot1,rule,normal,8,2
+후건조 압력 모드,5,quick,aut→man,lot1,rule,transition,133,41
+후건조 압력 모드,5,quick,aut→man,lot1,rule,other,1,0
+후건조 압력 모드,5,quick,aut→man,lot1,tree,normal,8,2
+후건조 압력 모드,5,quick,aut→man,lot1,tree,transition,133,41
+후건조 압력 모드,5,quick,aut→man,lot1,tree,other,1,0
+후건조 압력 모드,5,quick,aut→man,lot1,gbm,normal,8,2
+후건조 압력 모드,5,quick,aut→man,lot1,gbm,transition,133,38
+후건조 압력 모드,5,quick,aut→man,lot1,gbm,other,1,0
+후건조 압력 모드,5,quick,aut→man,lot2,rule,normal,18,9
+후건조 압력 모드,5,quick,aut→man,lot2,rule,transition,125,54
+후건조 압력 모드,5,quick,aut→man,lot2,rule,other,2,1
+후건조 압력 모드,5,quick,aut→man,lot2,tree,normal,18,6
+후건조 압력 모드,5,quick,aut→man,lot2,tree,transition,125,46
+후건조 압력 모드,5,quick,aut→man,lot2,tree,other,2,1
+후건조 압력 모드,5,quick,aut→man,lot2,gbm,normal,18,6
+후건조 압력 모드,5,quick,aut→man,lot2,gbm,transition,125,47
+후건조 압력 모드,5,quick,aut→man,lot2,gbm,other,2,1
+후건조 압력 모드,5,quick,aut→man,lot3,rule,normal,9,2
+후건조 압력 모드,5,quick,aut→man,lot3,rule,transition,143,59
+후건조 압력 모드,5,quick,aut→man,lot3,rule,other,2,0
+후건조 압력 모드,5,quick,aut→man,lot3,tree,normal,9,1
+후건조 압력 모드,5,quick,aut→man,lot3,tree,transition,143,50
+후건조 압력 모드,5,quick,aut→man,lot3,tree,other,2,0
+후건조 압력 모드,5,quick,aut→man,lot3,gbm,normal,9,0
+후건조 압력 모드,5,quick,aut→man,lot3,gbm,transition,143,45
+후건조 압력 모드,5,quick,aut→man,lot3,gbm,other,2,0
+후건조 압력 모드,5,quick,aut→man,lot4,rule,normal,16,7
+후건조 압력 모드,5,quick,aut→man,lot4,rule,transition,104,43
+후건조 압력 모드,5,quick,aut→man,lot4,rule,other,0,0
+후건조 압력 모드,5,quick,aut→man,lot4,tree,normal,16,4
+후건조 압력 모드,5,quick,aut→man,lot4,tree,transition,104,41
+후건조 압력 모드,5,quick,aut→man,lot4,tree,other,0,0
+후건조 압력 모드,5,quick,aut→man,lot4,gbm,normal,16,5
+후건조 압력 모드,5,quick,aut→man,lot4,gbm,transition,104,31
+후건조 압력 모드,5,quick,aut→man,lot4,gbm,other,0,0
+후건조 압력 모드,5,quick,man→aut,time,rule,normal,17,4
+후건조 압력 모드,5,quick,man→aut,time,rule,transition,175,46
+후건조 압력 모드,5,quick,man→aut,time,rule,other,2,0
+후건조 압력 모드,5,quick,man→aut,time,tree,normal,17,8
+후건조 압력 모드,5,quick,man→aut,time,tree,transition,175,59
+후건조 압력 모드,5,quick,man→aut,time,tree,other,2,1
+후건조 압력 모드,5,quick,man→aut,time,gbm,normal,17,9
+후건조 압력 모드,5,quick,man→aut,time,gbm,transition,175,67
+후건조 압력 모드,5,quick,man→aut,time,gbm,other,2,0
+후건조 압력 모드,5,quick,man→aut,lot0,rule,normal,7,3
+후건조 압력 모드,5,quick,man→aut,lot0,rule,transition,110,24
+후건조 압력 모드,5,quick,man→aut,lot0,rule,other,1,0
+후건조 압력 모드,5,quick,man→aut,lot0,tree,normal,7,0
+후건조 압력 모드,5,quick,man→aut,lot0,tree,transition,110,38
+후건조 압력 모드,5,quick,man→aut,lot0,tree,other,1,0
+후건조 압력 모드,5,quick,man→aut,lot0,gbm,normal,7,3
+후건조 압력 모드,5,quick,man→aut,lot0,gbm,transition,110,44
+후건조 압력 모드,5,quick,man→aut,lot0,gbm,other,1,0
+후건조 압력 모드,5,quick,man→aut,lot1,rule,normal,8,5
+후건조 압력 모드,5,quick,man→aut,lot1,rule,transition,106,38
+후건조 압력 모드,5,quick,man→aut,lot1,rule,other,0,0
+후건조 압력 모드,5,quick,man→aut,lot1,tree,normal,8,0
+후건조 압력 모드,5,quick,man→aut,lot1,tree,transition,106,34
+후건조 압력 모드,5,quick,man→aut,lot1,tree,other,0,0
+후건조 압력 모드,5,quick,man→aut,lot1,gbm,normal,8,1
+후건조 압력 모드,5,quick,man→aut,lot1,gbm,transition,106,43
+후건조 압력 모드,5,quick,man→aut,lot1,gbm,other,0,0
+후건조 압력 모드,5,quick,man→aut,lot2,rule,normal,13,6
+후건조 압력 모드,5,quick,man→aut,lot2,rule,transition,99,33
+후건조 압력 모드,5,quick,man→aut,lot2,rule,other,2,1
+후건조 압력 모드,5,quick,man→aut,lot2,tree,normal,13,6
+후건조 압력 모드,5,quick,man→aut,lot2,tree,transition,99,38
+후건조 압력 모드,5,quick,man→aut,lot2,tree,other,2,0
+후건조 압력 모드,5,quick,man→aut,lot2,gbm,normal,13,5
+후건조 압력 모드,5,quick,man→aut,lot2,gbm,transition,99,36
+후건조 압력 모드,5,quick,man→aut,lot2,gbm,other,2,0
+후건조 압력 모드,5,quick,man→aut,lot3,rule,normal,11,6
+후건조 압력 모드,5,quick,man→aut,lot3,rule,transition,116,43
+후건조 압력 모드,5,quick,man→aut,lot3,rule,other,1,0
+후건조 압력 모드,5,quick,man→aut,lot3,tree,normal,11,3
+후건조 압력 모드,5,quick,man→aut,lot3,tree,transition,116,44
+후건조 압력 모드,5,quick,man→aut,lot3,tree,other,1,0
+후건조 압력 모드,5,quick,man→aut,lot3,gbm,normal,11,5
+후건조 압력 모드,5,quick,man→aut,lot3,gbm,transition,116,47
+후건조 압력 모드,5,quick,man→aut,lot3,gbm,other,1,0
+후건조 압력 모드,5,quick,man→aut,lot4,rule,normal,12,3
+후건조 압력 모드,5,quick,man→aut,lot4,rule,transition,106,40
+후건조 압력 모드,5,quick,man→aut,lot4,rule,other,0,0
+후건조 압력 모드,5,quick,man→aut,lot4,tree,normal,12,0
+후건조 압력 모드,5,quick,man→aut,lot4,tree,transition,106,37
+후건조 압력 모드,5,quick,man→aut,lot4,tree,other,0,0
+후건조 압력 모드,5,quick,man→aut,lot4,gbm,normal,12,2
+후건조 압력 모드,5,quick,man→aut,lot4,gbm,transition,106,36
+후건조 압력 모드,5,quick,man→aut,lot4,gbm,other,0,0

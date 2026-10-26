@@ -1,0 +1,19 @@
+{
+  "tests_exit_code": 0,
+  "record_files_opened": 0,
+  "external_artifacts_opened": 0,
+  "package_inputs": [
+    "artifacts/intervention/s73/recent_target_counts.csv",
+    "artifacts/stage1_audit/q1_summary.csv",
+    "artifacts/stage1_audit/q2_metrics.csv",
+    "artifacts/stage1_audit/q2_paired_comparisons.csv",
+    "artifacts/stage1_audit/s89/q1_elapsed_controls.csv",
+    "scripts/paper1_figs/layout_checks.json",
+    "scripts/paper1_figs/numeric_checks.json"
+  ],
+  "pdfs": [
+    "fig1_bundle_excess.pdf",
+    "fig2_information_increment.pdf",
+    "fig3_onset_recall.pdf"
+  ]
+}

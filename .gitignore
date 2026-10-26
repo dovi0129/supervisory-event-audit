@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mplconfig/
+unavailable_records/
+generated/
+*.parquet
+*.joblib
+*_PRIVATE*
+plant_records_config.json

@@ -1,0 +1,241 @@
+loop,k,variant,direction,split,region,gbm,tree,gbm_minus_tree_pr_auc,description
+pooled,5,main,aut→man,lot,all,0.16865661114152364,0.1648393840010085,0.0038172271405151337,selected-model predictive difference
+pooled,5,main,aut→man,lot,normal,0.040576362773754066,0.054290565072056915,-0.01371420229830285,selected-model predictive difference
+pooled,5,main,aut→man,lot,other,0.007336662727487105,0.033004932903817896,-0.02566827017633079,selected-model predictive difference
+pooled,5,main,aut→man,lot,transition,0.26641900187365153,0.2251228942055284,0.04129610766812314,selected-model predictive difference
+pooled,5,main,aut→man,time,all,0.06355978336384878,0.1488463582817048,-0.08528657491785603,selected-model predictive difference
+pooled,5,main,aut→man,time,normal,0.006914985725457367,0.0464350936168657,-0.039520107891408335,selected-model predictive difference
+pooled,5,main,aut→man,time,other,0.00336445444854234,0.05150957402418342,-0.048145119575641084,selected-model predictive difference
+pooled,5,main,aut→man,time,transition,0.20562475415573733,0.20932904297501373,-0.0037042888192763967,selected-model predictive difference
+pooled,5,main,man→aut,lot,all,0.6246867032244356,0.5220835674573906,0.10260313576704505,selected-model predictive difference
+pooled,5,main,man→aut,lot,normal,0.2936055962905193,0.20334359232405683,0.09026200396646247,selected-model predictive difference
+pooled,5,main,man→aut,lot,other,0.18672484428690778,0.09573674062356188,0.09098810366334589,selected-model predictive difference
+pooled,5,main,man→aut,lot,transition,0.6647807116637604,0.5641277047272983,0.10065300693646206,selected-model predictive difference
+pooled,5,main,man→aut,time,all,0.6507859830486569,0.5245671498434262,0.12621883320523064,selected-model predictive difference
+pooled,5,main,man→aut,time,normal,0.3403104200170536,0.2118149746616013,0.1284954453554523,selected-model predictive difference
+pooled,5,main,man→aut,time,other,0.10007687972140611,0.11453164007825611,-0.014454760356850005,selected-model predictive difference
+pooled,5,main,man→aut,time,transition,0.7097993267643414,0.5781835524271778,0.13161577433716365,selected-model predictive difference
+pooled,5,quick,aut→man,lot,all,0.18179496851011545,0.16800512327399103,0.01378984523612442,selected-model predictive difference
+pooled,5,quick,aut→man,lot,normal,0.0474415077183504,0.05880665695675066,-0.011365149238400256,selected-model predictive difference
+pooled,5,quick,aut→man,lot,other,0.01281976281739956,0.02520984560126556,-0.012390082783866,selected-model predictive difference
+pooled,5,quick,aut→man,lot,transition,0.26173265319041755,0.22580448025568786,0.03592817293472969,selected-model predictive difference
+pooled,5,quick,aut→man,time,all,0.07575847024145209,0.14433850678518165,-0.06858003654372956,selected-model predictive difference
+pooled,5,quick,aut→man,time,normal,0.008498583786356647,0.036238073906234194,-0.027739490119877547,selected-model predictive difference
+pooled,5,quick,aut→man,time,other,0.006240083036742662,0.04008217300928747,-0.03384208997254481,selected-model predictive difference
+pooled,5,quick,aut→man,time,transition,0.19433506694758457,0.2102857356412024,-0.01595066869361783,selected-model predictive difference
+pooled,5,quick,man→aut,lot,all,0.6325956816259488,0.5143902470986063,0.11820543452734256,selected-model predictive difference
+pooled,5,quick,man→aut,lot,normal,0.32073850938909426,0.21043382976669675,0.11030467962239751,selected-model predictive difference
+pooled,5,quick,man→aut,lot,other,0.12899483793261188,0.09254671810487214,0.03644811982773974,selected-model predictive difference
+pooled,5,quick,man→aut,lot,transition,0.68131671741348,0.5592805630710665,0.12203615434241344,selected-model predictive difference
+pooled,5,quick,man→aut,time,all,0.6416932586843954,0.5214781212550735,0.12021513742932188,selected-model predictive difference
+pooled,5,quick,man→aut,time,normal,0.296788360345391,0.23366927259182266,0.06311908775356836,selected-model predictive difference
+pooled,5,quick,man→aut,time,other,0.12796532821222317,0.11675788434342016,0.011207443868803013,selected-model predictive difference
+pooled,5,quick,man→aut,time,transition,0.7025164533754684,0.5778944611774318,0.1246219921980366,selected-model predictive difference
+pooled,15,main,aut→man,lot,all,0.1596666651234671,0.10679057072450995,0.05287609439895716,selected-model predictive difference
+pooled,15,main,aut→man,lot,normal,0.0824107282329899,0.05296672422385064,0.029444004009139255,selected-model predictive difference
+pooled,15,main,aut→man,lot,other,0.07408536403466957,0.07223971072912595,0.0018456533055436208,selected-model predictive difference
+pooled,15,main,aut→man,lot,transition,0.31964166332338995,0.1932805020320342,0.12636116129135574,selected-model predictive difference
+pooled,15,main,aut→man,time,all,0.0691872614298052,0.10091598504854551,-0.03172872361874031,selected-model predictive difference
+pooled,15,main,aut→man,time,normal,0.026338653351056215,0.038993083009899655,-0.01265442965884344,selected-model predictive difference
+pooled,15,main,aut→man,time,other,0.017434162946534687,0.11414055204079024,-0.09670638909425555,selected-model predictive difference
+pooled,15,main,aut→man,time,transition,0.25518403276994306,0.19715559286564752,0.05802843990429554,selected-model predictive difference
+pooled,15,main,man→aut,lot,all,0.796460963161536,0.7269436331887568,0.06951732997277926,selected-model predictive difference
+pooled,15,main,man→aut,lot,normal,0.5048411902330066,0.4473429443679765,0.05749824586503005,selected-model predictive difference
+pooled,15,main,man→aut,lot,other,0.25157205657298753,0.1969151167392893,0.05465693983369824,selected-model predictive difference
+pooled,15,main,man→aut,lot,transition,0.8462100290442578,0.7816176075017494,0.06459242154250844,selected-model predictive difference
+pooled,15,main,man→aut,time,all,0.8037117975361225,0.7126492486600656,0.09106254887605691,selected-model predictive difference
+pooled,15,main,man→aut,time,normal,0.5095827485606289,0.427784059813216,0.08179868874741292,selected-model predictive difference
+pooled,15,main,man→aut,time,other,0.5393648059134003,0.35985368139783314,0.17951112451556717,selected-model predictive difference
+pooled,15,main,man→aut,time,transition,0.8708237831731911,0.7839458486154026,0.08687793455778847,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,lot,all,0.21774270818197494,0.1455833298169563,0.07215937836501865,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,lot,normal,0.08220266952967309,0.05907358061916864,0.02312908891050445,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,lot,other,0.03107920606049338,0.03495602558876178,-0.003876819528268398,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,lot,transition,0.3653492601242414,0.20171048574976685,0.16363877437447455,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,time,all,0.1535457529306857,0.11039798089217898,0.043147772038506726,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,time,normal,0.0597582874828618,0.03590714168977199,0.023851145793089806,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,time,other,0.02206854870786336,0.03189932689493708,-0.009830778187073723,selected-model predictive difference
+전건조 압력 모드,5,main,aut→man,time,transition,0.2857731231201341,0.15845710582102324,0.12731601729911085,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,lot,all,0.6192783668676648,0.5000719986713148,0.11920636819635,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,lot,normal,0.22146758386901477,0.16046475238446828,0.061002831484546494,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,lot,other,0.05093063176832693,0.005879673674652278,0.045050958093674646,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,lot,transition,0.6615015654143616,0.5391317900224114,0.12236977539195015,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,time,all,0.6594047409988205,0.45413016543188667,0.20527457556693385,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,time,normal,0.2518820060053168,0.13937871390350348,0.11250329210181331,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,time,other,0.025278421086125845,0.01672582776233016,0.008552593323795685,selected-model predictive difference
+전건조 압력 모드,5,main,man→aut,time,transition,0.7149132535099296,0.5049089962908314,0.2100042572190982,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,lot,all,0.21694828731255242,0.14542019486723726,0.07152809244531516,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,lot,normal,0.07523605215131354,0.05778426859397223,0.01745178355734131,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,lot,other,0.03088438776095428,0.03495602558876178,-0.004071637827807496,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,lot,transition,0.3582524524084923,0.20393396923541507,0.15431848317307723,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,time,all,0.1829488000537166,0.11290223171638372,0.07004656833733289,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,time,normal,0.07191866123792126,0.03590714168977199,0.03601151954814927,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,time,other,0.054120250472889764,0.03189932689493708,0.022220923577952682,selected-model predictive difference
+전건조 압력 모드,5,quick,aut→man,time,transition,0.2972429642808007,0.16236723442088902,0.1348757298599117,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,lot,all,0.6005762387649549,0.5046796397198504,0.0958965990451045,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,lot,normal,0.23122323331875497,0.16362348010170358,0.06759975321705139,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,lot,other,0.0732845842655147,0.005861227138751054,0.06742335712676364,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,lot,transition,0.6644433309731894,0.5419601165305427,0.12248321444264676,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,time,all,0.6245437928779677,0.4457107165927576,0.17883307628521006,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,time,normal,0.2924533344187803,0.24622161495695138,0.04623171946182891,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,time,other,0.3721951219512195,0.01910678014328254,0.35308834180793697,selected-model predictive difference
+전건조 압력 모드,5,quick,man→aut,time,transition,0.6641198060534612,0.4882234873740394,0.1758963186794218,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,lot,all,0.18502462861736074,0.08594486835813996,0.09907976025922079,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,lot,normal,0.12113883194596173,0.05787735651178384,0.06326147543417789,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,lot,other,0.5742836476940832,0.2248911135948054,0.34939253409927784,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,lot,transition,0.40946464391373577,0.18314860033806674,0.22631604357566903,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,time,all,0.16491203209929084,0.08187023188001466,0.08304180021927618,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,time,normal,0.0936812321344463,0.037131300139792704,0.0565499319946536,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,time,other,0.6348461998417329,0.3889091738931994,0.24593702594853345,selected-model predictive difference
+전건조 압력 모드,15,main,aut→man,time,transition,0.37422409886213653,0.20925792106709482,0.16496617779504172,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,lot,all,0.8143229824173369,0.7241428260259283,0.09018015639140864,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,lot,normal,0.4969295047560972,0.46277118601449946,0.03415831874159775,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,lot,other,0.5038149759354896,0.014579657824827485,0.4892353181106621,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,lot,transition,0.8658131371590936,0.7718264555813641,0.09398668157772949,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,time,all,0.7939303748425006,0.676359696872012,0.11757067797048859,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,time,normal,0.6092400348577965,0.5286938474696334,0.0805461873881631,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,time,other,0.4915177813869684,0.08990488537320614,0.40161289601376227,selected-model predictive difference
+전건조 압력 모드,15,main,man→aut,time,transition,0.843472362289532,0.740147687662178,0.10332467462735406,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,lot,all,0.20284834947002095,0.15177748125778145,0.051070868212239495,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,lot,normal,0.08545108571361981,0.0926043496748856,-0.007153263961265782,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,lot,other,0.028658302592696555,0.02254342711872619,0.006114875473970365,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,lot,transition,0.33315077673597215,0.2064802848678715,0.12667049186810064,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,time,all,0.19377371703021395,0.15512369283159955,0.03865002419861441,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,time,normal,0.10478706844586191,0.1369865272610895,-0.032199458815227594,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,time,other,0.02176322974543996,0.07345116286731838,-0.05168793312187843,selected-model predictive difference
+지료 유량 모드,5,main,aut→man,time,transition,0.3178839945555723,0.21313570702927814,0.10474828752629417,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,lot,all,0.8389011504642754,0.7061310944976618,0.13277005596661362,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,lot,normal,0.7829678121047798,0.5010587272048177,0.28190908489996214,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,lot,other,0.6455026455026454,0.03384017785916135,0.611662467643484,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,lot,transition,0.8448041531797221,0.72281758094699,0.12198657223273213,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,time,all,0.8764090916827907,0.7467488974399016,0.1296601942428891,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,time,normal,0.7608376206806073,0.627588454182844,0.1332491664977633,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,time,other,0.045454545454545456,0.043478260869565216,0.0019762845849802396,selected-model predictive difference
+지료 유량 모드,5,main,man→aut,time,transition,0.8852296003965776,0.7573468853907525,0.12788271500582515,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,lot,all,0.21102422195242504,0.14823420692600703,0.06279001502641801,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,lot,normal,0.09659336658637445,0.08439935480752878,0.012194011778845673,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,lot,other,0.03207350803232894,0.02095127491571054,0.011122233116618398,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,lot,transition,0.31796085756765924,0.2069065596273588,0.11105429794030044,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,time,all,0.18044774985522516,0.14968334551666704,0.03076440433855812,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,time,normal,0.07201132322542875,0.0791079196962197,-0.0070965964707909585,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,time,other,0.025966255302640205,0.016525166662384794,0.009441088640255411,selected-model predictive difference
+지료 유량 모드,5,quick,aut→man,time,transition,0.2776901376177041,0.21429576718324533,0.06339437043445878,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,lot,all,0.8527004250048179,0.6569708280180243,0.1957295969867936,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,lot,normal,0.7851668599911874,0.5092827498266794,0.275884110164508,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,lot,other,0.7883597883597881,0.01939307076710623,0.7689667175926819,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,lot,transition,0.858955403697494,0.6781932209369403,0.18076218276055367,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,time,all,0.893657387629207,0.7672806952174895,0.12637669241171745,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,time,normal,0.7686692044364186,0.6759567035685928,0.09271250086782579,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,time,other,0.0625,0.043478260869565216,0.019021739130434784,selected-model predictive difference
+지료 유량 모드,5,quick,man→aut,time,transition,0.9036582351999668,0.7769892649458772,0.12666897025408963,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,lot,all,0.17508344149652183,0.09522642592045671,0.07985701557606512,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,lot,normal,0.09070841890786385,0.05292688294689501,0.037781535960968844,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,lot,other,0.1058151692114469,0.08663429336330591,0.019180875848140988,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,lot,transition,0.40765750367648423,0.192924747891898,0.21473275578458623,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,time,all,0.11983463011481647,0.08008069002667292,0.03975394008814355,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,time,normal,0.03667883684176582,0.033721564857556494,0.0029572719842093295,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,time,other,0.07926821810263879,0.0934343868480289,-0.014166168745390118,selected-model predictive difference
+지료 유량 모드,15,main,aut→man,time,transition,0.40885839793672346,0.1782798035897173,0.23057859434700617,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,lot,all,0.9671311652283547,0.8988402952431372,0.0682908699852175,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,lot,normal,0.9081500357497486,0.8878227989149428,0.020327236834805862,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,lot,other,0.4570708209936469,0.32537703191899464,0.13169378907465223,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,lot,transition,0.974707447373576,0.9018191085334631,0.07288833884011281,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,time,all,0.9812223919601377,0.9408708816931497,0.04035151026698802,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,time,normal,0.9156638256156477,0.9173561394021388,-0.0016923137864910398,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,time,other,0.7368349042262086,1.0,-0.26316509577379144,selected-model predictive difference
+지료 유량 모드,15,main,man→aut,time,transition,0.9875563340457106,0.9435089153276224,0.04404741871808826,selected-model predictive difference
+회분 모드,5,main,aut→man,lot,all,0.06819517515646323,0.08272058879081118,-0.01452541363434795,selected-model predictive difference
+회분 모드,5,main,aut→man,lot,normal,0.011632361072464183,0.0177898922891966,-0.006157531216732416,selected-model predictive difference
+회분 모드,5,main,aut→man,lot,other,0.005152373998785539,0.0026157273901871456,0.002536646608598393,selected-model predictive difference
+회분 모드,5,main,aut→man,lot,transition,0.12734883549775328,0.1324691780365857,-0.005120342538832423,selected-model predictive difference
+회분 모드,5,main,aut→man,time,all,0.02584918314545714,0.10608678347298084,-0.0802376003275237,selected-model predictive difference
+회분 모드,5,main,aut→man,time,normal,0.004554212731332643,0.01638812237728375,-0.011833909645951109,selected-model predictive difference
+회분 모드,5,main,aut→man,time,other,0.00158463442576067,0.0019329164297896533,-0.0003482820040289834,selected-model predictive difference
+회분 모드,5,main,aut→man,time,transition,0.11450730570738088,0.15592840687042006,-0.04142110116303918,selected-model predictive difference
+회분 모드,5,main,man→aut,lot,all,0.22024546141797624,0.1665161080062089,0.05372935341176735,selected-model predictive difference
+회분 모드,5,main,man→aut,lot,normal,0.1058192167460073,0.06555158491715796,0.04026763182884935,selected-model predictive difference
+회분 모드,5,main,man→aut,lot,other,0.1545087368727289,0.11170400176370182,0.042804735109027076,selected-model predictive difference
+회분 모드,5,main,man→aut,lot,transition,0.23989357264087863,0.19136122617370893,0.048532346467169696,selected-model predictive difference
+회분 모드,5,main,man→aut,time,all,0.26657170005303626,0.16190950868274723,0.10466219137028904,selected-model predictive difference
+회분 모드,5,main,man→aut,time,normal,0.14043963127395145,0.04835930183358089,0.09208032944037056,selected-model predictive difference
+회분 모드,5,main,man→aut,time,other,0.2950610257652511,0.1262135922330097,0.1688474335322414,selected-model predictive difference
+회분 모드,5,main,man→aut,time,transition,0.2930477136887036,0.1900471677048834,0.10300054598382019,selected-model predictive difference
+회분 모드,5,quick,aut→man,lot,all,0.0988390806218268,0.09678727166882858,0.0020518089529982103,selected-model predictive difference
+회분 모드,5,quick,aut→man,lot,normal,0.015686824702258104,0.03236111762025014,-0.016674292917992033,selected-model predictive difference
+회분 모드,5,quick,aut→man,lot,other,0.006481509403221664,0.002965815750739529,0.0035156936524821355,selected-model predictive difference
+회분 모드,5,quick,aut→man,lot,transition,0.15824418256728712,0.14516858644314776,0.01307559612413936,selected-model predictive difference
+회분 모드,5,quick,aut→man,time,all,0.037021164249275165,0.10105859549354942,-0.06403743124427426,selected-model predictive difference
+회분 모드,5,quick,aut→man,time,normal,0.007278897286632224,0.015999803681307444,-0.00872090639467522,selected-model predictive difference
+회분 모드,5,quick,aut→man,time,other,0.002497203501362105,0.0025,-2.7964986378950854e-06,selected-model predictive difference
+회분 모드,5,quick,aut→man,time,transition,0.1212720889946417,0.1525525895567967,-0.031280500562155006,selected-model predictive difference
+회분 모드,5,quick,man→aut,lot,all,0.2453773969168591,0.1522034338486103,0.0931739630682488,selected-model predictive difference
+회분 모드,5,quick,man→aut,lot,normal,0.12905260845494146,0.06745809935407159,0.061594509100869874,selected-model predictive difference
+회분 모드,5,quick,man→aut,lot,other,0.22701415605572112,0.20552172600996746,0.021492430045753658,selected-model predictive difference
+회분 모드,5,quick,man→aut,lot,transition,0.2669841851113124,0.17643121294793584,0.09055297216337654,selected-model predictive difference
+회분 모드,5,quick,man→aut,time,all,0.2650703437604462,0.17719043987150535,0.08787990388894085,selected-model predictive difference
+회분 모드,5,quick,man→aut,time,normal,0.15134324069505273,0.0613067116227663,0.09003652907228643,selected-model predictive difference
+회분 모드,5,quick,man→aut,time,other,0.2643630289266312,0.1588785046728972,0.10548452425373403,selected-model predictive difference
+회분 모드,5,quick,man→aut,time,transition,0.287121662667721,0.22143549218593978,0.06568617048178121,selected-model predictive difference
+회분 모드,15,main,aut→man,lot,all,0.08152384352592446,0.06881578313683444,0.012708060389090017,selected-model predictive difference
+회분 모드,15,main,aut→man,lot,normal,0.037570304838539494,0.027679686208972872,0.009890618629566621,selected-model predictive difference
+회분 모드,15,main,aut→man,lot,other,0.01439019881289787,0.012505471242140152,0.001884727570757718,selected-model predictive difference
+회분 모드,15,main,aut→man,lot,transition,0.14635625890906045,0.13244720588748,0.013909053021580464,selected-model predictive difference
+회분 모드,15,main,aut→man,time,all,0.033187985705100655,0.07057954807227788,-0.03739156236717723,selected-model predictive difference
+회분 모드,15,main,aut→man,time,normal,0.018026037399334668,0.018035296752404367,-9.259353069699522e-06,selected-model predictive difference
+회분 모드,15,main,aut→man,time,other,0.0077394347348470945,0.006186642814549791,0.0015527919202973032,selected-model predictive difference
+회분 모드,15,main,aut→man,time,transition,0.11800710227724046,0.1424168651571067,-0.024409762879866237,selected-model predictive difference
+회분 모드,15,main,man→aut,lot,all,0.49135964371659785,0.4069253006495388,0.08443434306705905,selected-model predictive difference
+회분 모드,15,main,man→aut,lot,normal,0.21463646234795475,0.16693778949432794,0.047698672853626806,selected-model predictive difference
+회분 모드,15,main,man→aut,lot,other,0.4226323592472252,0.410242490595943,0.012389868651282221,selected-model predictive difference
+회분 모드,15,main,man→aut,lot,transition,0.5327953114176052,0.4592194271263615,0.07357588429124368,selected-model predictive difference
+회분 모드,15,main,man→aut,time,all,0.531715648200222,0.38047946004664646,0.15123618815357553,selected-model predictive difference
+회분 모드,15,main,man→aut,time,normal,0.3010417609844531,0.11998303318298399,0.18105872780146914,selected-model predictive difference
+회분 모드,15,main,man→aut,time,other,0.6982487642906473,0.4521739130434782,0.2460748512471691,selected-model predictive difference
+회분 모드,15,main,man→aut,time,transition,0.5630800928076063,0.44734542662410975,0.11573466618349654,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,lot,all,0.1415964409481111,0.1366016636618476,0.004994777286263519,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,lot,normal,0.07862185656770557,0.0942701562716489,-0.01564829970394334,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,lot,other,0.04619107483194458,0.24223361059539428,-0.1960425357634497,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,lot,transition,0.18415355848210746,0.16043299696031965,0.02372056152178781,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,time,all,0.04981699407037759,0.1108807856020361,-0.06106379153165851,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,time,normal,0.008546582267012734,0.0389986368246566,-0.030452054557643868,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,time,other,0.025701485654770193,0.4366027832266468,-0.4109012975718766,selected-model predictive difference
+후건조 압력 모드,5,main,aut→man,time,transition,0.15531467985595848,0.14381594140247678,0.011498738453481705,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,lot,all,0.7418124062525803,0.5309209958829891,0.21089141036959114,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,lot,normal,0.42555788268262895,0.19663921851014732,0.22891866417248163,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,lot,other,0.1817183782669432,0.240759210089274,-0.0590408318223308,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,lot,transition,0.7845583633372056,0.583454077822143,0.20110428551506265,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,time,all,0.6578234942227549,0.4891797595294904,0.1686437346932645,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,time,normal,0.4426374651844352,0.16797238452977425,0.27466508065466094,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,time,other,0.12972442561940198,0.17395707740535327,-0.04423265178595129,selected-model predictive difference
+후건조 압력 모드,5,main,man→aut,time,transition,0.7534148306288313,0.5675893829610515,0.18582544766777975,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,lot,all,0.16141567110911748,0.1550193772383297,0.0063962938707877726,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,lot,normal,0.07481334006382492,0.12317695333493958,-0.04836361327111466,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,lot,other,0.057580142733659814,0.22314157993766104,-0.16556143720400124,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,lot,transition,0.20278886145711683,0.1768907935196928,0.025898067937424024,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,time,all,0.05773078184750302,0.09674428832178578,-0.039013506474282755,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,time,normal,0.007633869121316746,0.035340995594404914,-0.027707126473088168,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,time,other,0.14646868363145704,0.3764524072867972,-0.22998372365534014,selected-model predictive difference
+후건조 압력 모드,5,quick,aut→man,time,transition,0.14155787511143839,0.12713668443541992,0.014421190676018464,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,lot,all,0.7550233997806097,0.5663425543424656,0.18868084543814412,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,lot,normal,0.45779750875641045,0.17866532747488803,0.2791321812815224,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,lot,other,0.10503261277365668,0.22591286303004754,-0.12088025025639086,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,lot,transition,0.7951125217747651,0.6285037097701046,0.1666088120046605,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,time,all,0.6435613472585844,0.5086867318875843,0.1348746153710001,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,time,normal,0.32247803684581267,0.18023893558906484,0.14223910125674782,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,time,other,0.16562914704624582,0.17395707740535327,-0.00832793035910745,selected-model predictive difference
+후건조 압력 모드,5,quick,man→aut,time,transition,0.7554277374978295,0.5863200422414331,0.16910769525639646,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,lot,all,0.19500421078369803,0.12207584718369481,0.07292836360000322,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,lot,normal,0.12969620939559162,0.06859418511786472,0.0611020242777269,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,lot,other,0.1372146439112067,0.12984678344209932,0.007367860469107368,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,lot,transition,0.3206719642774019,0.17699176857686358,0.14368019570053833,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,time,all,0.07400340991556145,0.11999670690067321,-0.04599329698511176,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,time,normal,0.02776929036883253,0.0609170650675964,-0.03314777469876387,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,time,other,0.16501221847961253,0.25789374537668797,-0.09288152689707543,selected-model predictive difference
+후건조 압력 모드,15,main,aut→man,time,transition,0.28694580561715805,0.18803674057235115,0.0989090650448069,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,lot,all,0.8957449202678007,0.7573047598912761,0.13844016037652462,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,lot,normal,0.6455890006741728,0.4188466942515767,0.22674230642259607,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,lot,other,0.27939266716766487,0.19498538040558377,0.08440728676208109,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,lot,transition,0.9589891306689639,0.8717295405431816,0.08725959012578222,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,time,all,0.8206768774661117,0.6856012447317779,0.13507563273433387,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,time,normal,0.45090299058629935,0.40248447204968946,0.04841851853660989,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,time,other,0.7125262239653631,0.35527462946817784,0.3572515944971853,selected-model predictive difference
+후건조 압력 모드,15,main,man→aut,time,transition,0.9553171107850031,0.8371222117339209,0.11819489905108227,selected-model predictive difference

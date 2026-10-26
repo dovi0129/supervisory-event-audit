@@ -1,0 +1,164 @@
+[
+  {
+    "figure": 1,
+    "row": "Normal production; before; full",
+    "n": 327,
+    "csv": 0.0992813455657492,
+    "independent": 0.09928134556574927,
+    "low": 0.0394282904787413,
+    "high": 0.1589356345519617
+  },
+  {
+    "figure": 1,
+    "row": "Normal production; before; cap30",
+    "n": 327,
+    "csv": 0.0992813455657492,
+    "independent": 0.09928134556574927,
+    "low": 0.0394282904787413,
+    "high": 0.1589356345519617
+  },
+  {
+    "figure": 1,
+    "row": "Normal production; inside; full",
+    "n": 327,
+    "csv": 0.1714678899082568,
+    "independent": 0.1714678899082569,
+    "low": 0.1266681445355797,
+    "high": 0.2196861262875055
+  },
+  {
+    "figure": 1,
+    "row": "Normal production; inside; cap30",
+    "n": 327,
+    "csv": 0.1672782874617737,
+    "independent": 0.1672782874617737,
+    "low": 0.1191357900796614,
+    "high": 0.2162572454176436
+  },
+  {
+    "figure": 1,
+    "row": "Grade transition; before; full",
+    "n": 1520,
+    "csv": 0.3042861842105263,
+    "independent": 0.30428618421052633,
+    "low": 0.2750281818233411,
+    "high": 0.3336020593498554
+  },
+  {
+    "figure": 1,
+    "row": "Grade transition; before; cap30",
+    "n": 1520,
+    "csv": 0.3042861842105263,
+    "independent": 0.30428618421052633,
+    "low": 0.2750281818233411,
+    "high": 0.3336020593498554
+  },
+  {
+    "figure": 1,
+    "row": "Grade transition; inside; full",
+    "n": 1520,
+    "csv": 0.3014243421052632,
+    "independent": 0.3014243421052632,
+    "low": 0.2772663889338113,
+    "high": 0.326445675357557
+  },
+  {
+    "figure": 1,
+    "row": "Grade transition; inside; cap30",
+    "n": 1520,
+    "csv": 0.3025690789473684,
+    "independent": 0.3025690789473684,
+    "low": 0.2781287924722734,
+    "high": 0.3284175167493622
+  },
+  {
+    "figure": 1,
+    "row": "Grade transition; before; elapsed",
+    "n": 1518,
+    "csv": 0.2134387351778656,
+    "independent": 0.2134387351778656,
+    "low": 0.18477519768248893,
+    "high": 0.24275322153376427
+  },
+  {
+    "figure": 1,
+    "row": "Grade transition; inside; elapsed",
+    "n": 1518,
+    "csv": 0.10245388669301711,
+    "independent": 0.10245388669301714,
+    "low": 0.08097553421655583,
+    "high": 0.12460547628992585
+  },
+  {
+    "figure": 2,
+    "row": "time; R1-R0p",
+    "n": 1455,
+    "episodes": 168,
+    "csv": 0.12439862542955327,
+    "independent": 0.12439862542955327,
+    "low": 0.09475952299663463,
+    "high": 0.15510498430141287
+  },
+  {
+    "figure": 2,
+    "row": "group; R1-R0p",
+    "n": 5816,
+    "episodes": 717,
+    "csv": 0.10453920220082531,
+    "independent": 0.1045392022008253,
+    "low": 0.0900191202946967,
+    "high": 0.1188026448385384
+  },
+  {
+    "figure": 2,
+    "row": "time; R2-R1",
+    "n": 1455,
+    "episodes": 168,
+    "csv": -0.008934707903780068,
+    "independent": -0.008934707903780092,
+    "low": -0.021491290513349966,
+    "high": 0.003217610979199485
+  },
+  {
+    "figure": 2,
+    "row": "group; R2-R1",
+    "n": 5816,
+    "episodes": 717,
+    "csv": 0.008253094910591471,
+    "independent": 0.008253094910591507,
+    "low": 0.0010087344401152921,
+    "high": 0.015297590068159677
+  },
+  {
+    "figure": 3,
+    "row": "Normal production; recent",
+    "n": 40,
+    "hits": 17,
+    "csv": "17/40",
+    "independent": 0.425
+  },
+  {
+    "figure": 3,
+    "row": "Normal production; no_recent",
+    "n": 83,
+    "hits": 2,
+    "csv": "2/83",
+    "independent": 0.024096385542168676
+  },
+  {
+    "figure": 3,
+    "row": "Grade transition; recent",
+    "n": 364,
+    "hits": 245,
+    "csv": "245/364",
+    "independent": 0.6730769230769231
+  },
+  {
+    "figure": 3,
+    "row": "Grade transition; no_recent",
+    "n": 363,
+    "hits": 17,
+    "csv": "17/363",
+    "independent": 0.046831955922865015
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "figure": "fig1_bundle_excess.pdf",
+    "source_text_equal": true
+  },
+  {
+    "figure": "fig2_information_increment.pdf",
+    "source_text_equal": true
+  },
+  {
+    "figure": "fig3_onset_recall.pdf",
+    "source_text_equal": true
+  }
+]

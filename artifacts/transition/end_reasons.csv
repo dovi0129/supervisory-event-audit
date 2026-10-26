@@ -1,0 +1,8 @@
+cohort,end_reason,episodes
+normal_manual,auto_return,263
+normal_manual,cap_240,24
+normal_manual,next_grade,116
+normal_manual,stable_band,2
+transition,cap_240,637
+transition,next_grade,460
+transition,stable_band,26

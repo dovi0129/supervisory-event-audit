@@ -1,0 +1,207 @@
+{
+  "counts": {
+    "tag": 85,
+    "local_path": 21
+  },
+  "changes": [
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "tag",
+      "before_occurrences": 16,
+      "source_lines": [
+        68,
+        69,
+        85,
+        86,
+        87
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s68/s68_analyze.py",
+      "category": "local_path",
+      "before_occurrences": 1,
+      "source_lines": [
+        16
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "tag",
+      "before_occurrences": 44,
+      "source_lines": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        66,
+        67,
+        68,
+        69,
+        70,
+        72
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s68/s68_events.py",
+      "category": "local_path",
+      "before_occurrences": 2,
+      "source_lines": [
+        28,
+        29
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s68/s68_extract.py",
+      "category": "tag",
+      "before_occurrences": 16,
+      "source_lines": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "after_occurrences": 0,
+      "action": "external adapter"
+    },
+    {
+      "file": "scripts/s68/s68_extract.py",
+      "category": "local_path",
+      "before_occurrences": 3,
+      "source_lines": [
+        12,
+        16,
+        17
+      ],
+      "after_occurrences": 0,
+      "action": "external adapter"
+    },
+    {
+      "file": "scripts/s70/launch_s70.sh",
+      "category": "local_path",
+      "before_occurrences": 2,
+      "source_lines": [
+        3,
+        8
+      ],
+      "after_occurrences": 0,
+      "action": "replace launcher"
+    },
+    {
+      "file": "scripts/s70/launch_s70_block.sh",
+      "category": "local_path",
+      "before_occurrences": 3,
+      "source_lines": [
+        4,
+        8
+      ],
+      "after_occurrences": 0,
+      "action": "replace launcher"
+    },
+    {
+      "file": "scripts/s70/s70_features.py",
+      "category": "tag",
+      "before_occurrences": 9,
+      "source_lines": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s70/s70_run.py",
+      "category": "local_path",
+      "before_occurrences": 1,
+      "source_lines": [
+        15
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s74/paper_figstyle.py",
+      "category": "local_path",
+      "before_occurrences": 1,
+      "source_lines": [
+        9
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s74/s74_report.py",
+      "category": "local_path",
+      "before_occurrences": 1,
+      "source_lines": [
+        15
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s77/launch_s77.sh",
+      "category": "local_path",
+      "before_occurrences": 2,
+      "source_lines": [
+        3,
+        6
+      ],
+      "after_occurrences": 0,
+      "action": "replace launcher"
+    },
+    {
+      "file": "scripts/s77/launch_s77_block.sh",
+      "category": "local_path",
+      "before_occurrences": 3,
+      "source_lines": [
+        3,
+        10
+      ],
+      "after_occurrences": 0,
+      "action": "replace launcher"
+    },
+    {
+      "file": "scripts/s77/s77_report.py",
+      "category": "local_path",
+      "before_occurrences": 1,
+      "source_lines": [
+        377
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    },
+    {
+      "file": "scripts/s77/s77_run.py",
+      "category": "local_path",
+      "before_occurrences": 1,
+      "source_lines": [
+        14
+      ],
+      "after_occurrences": 0,
+      "action": "role keys / runtime paths"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+loop,k,variant,direction,region,lot,time,split_disagreement,combined_status
+pooled,5,main,aut→man,all,부분,부분,False,부분
+pooled,5,main,aut→man,normal,미설명,미설명,False,미설명
+pooled,5,main,aut→man,other,미설명,미설명,False,미설명
+pooled,5,main,aut→man,transition,부분,부분,False,부분
+pooled,5,main,man→aut,all,미설명,부분,True,보류
+pooled,5,main,man→aut,normal,미설명,미설명,False,미설명
+pooled,5,main,man→aut,other,미설명,미설명,False,미설명
+pooled,5,main,man→aut,transition,부분,부분,False,부분
+pooled,5,quick,aut→man,all,부분,미설명,True,보류
+pooled,5,quick,aut→man,normal,미설명,미설명,False,미설명
+pooled,5,quick,aut→man,other,미설명,미설명,False,미설명
+pooled,5,quick,aut→man,transition,부분,부분,False,부분
+pooled,5,quick,man→aut,all,부분,부분,False,부분
+pooled,5,quick,man→aut,normal,미설명,부분,True,보류
+pooled,5,quick,man→aut,other,미설명,부분,True,보류
+pooled,5,quick,man→aut,transition,부분,부분,False,부분
+pooled,15,main,aut→man,all,미설명,미설명,False,미설명
+pooled,15,main,aut→man,normal,미설명,미설명,False,미설명
+pooled,15,main,aut→man,other,미설명,미설명,False,미설명
+pooled,15,main,aut→man,transition,미설명,미설명,False,미설명
+pooled,15,main,man→aut,all,미설명,미설명,False,미설명
+pooled,15,main,man→aut,normal,부분,미설명,True,보류
+pooled,15,main,man→aut,other,미설명,미설명,False,미설명
+pooled,15,main,man→aut,transition,미설명,미설명,False,미설명
+전건조 압력 모드,5,main,aut→man,all,부분,미설명,True,보류
+전건조 압력 모드,5,main,aut→man,normal,미설명,미설명,False,미설명
+전건조 압력 모드,5,main,aut→man,other,미설명,미설명,False,미설명
+전건조 압력 모드,5,main,aut→man,transition,부분,미설명,True,보류
+전건조 압력 모드,5,main,man→aut,all,부분,부분,False,부분
+전건조 압력 모드,5,main,man→aut,normal,미설명,미설명,False,미설명
+전건조 압력 모드,5,main,man→aut,other,미설명,미설명,False,미설명
+전건조 압력 모드,5,main,man→aut,transition,부분,부분,False,부분
+전건조 압력 모드,5,quick,aut→man,all,부분,미설명,True,보류
+전건조 압력 모드,5,quick,aut→man,normal,미설명,미설명,False,미설명
+전건조 압력 모드,5,quick,aut→man,other,미설명,미설명,False,미설명
+전건조 압력 모드,5,quick,aut→man,transition,부분,미설명,True,보류
+전건조 압력 모드,5,quick,man→aut,all,부분,부분,False,부분
+전건조 압력 모드,5,quick,man→aut,normal,미설명,미설명,False,미설명
+전건조 압력 모드,5,quick,man→aut,other,미설명,미설명,False,미설명
+전건조 압력 모드,5,quick,man→aut,transition,부분,부분,False,부분
+전건조 압력 모드,15,main,aut→man,all,미설명,미설명,False,미설명
+전건조 압력 모드,15,main,aut→man,normal,미설명,미설명,False,미설명
+전건조 압력 모드,15,main,aut→man,other,미설명,미설명,False,미설명
+전건조 압력 모드,15,main,aut→man,transition,미설명,미설명,False,미설명
+전건조 압력 모드,15,main,man→aut,all,미설명,미설명,False,미설명
+전건조 압력 모드,15,main,man→aut,normal,부분,미설명,True,보류
+전건조 압력 모드,15,main,man→aut,other,미설명,미설명,False,미설명
+전건조 압력 모드,15,main,man→aut,transition,미설명,미설명,False,미설명
+지료 유량 모드,5,main,aut→man,all,부분,부분,False,부분
+지료 유량 모드,5,main,aut→man,normal,미설명,부분,True,보류
+지료 유량 모드,5,main,aut→man,other,미설명,미설명,False,미설명
+지료 유량 모드,5,main,aut→man,transition,부분,부분,False,부분
+지료 유량 모드,5,main,man→aut,all,부분,부분,False,부분
+지료 유량 모드,5,main,man→aut,normal,미설명,설명 가능,True,보류
+지료 유량 모드,5,main,man→aut,other,미설명,미설명,False,미설명
+지료 유량 모드,5,main,man→aut,transition,부분,부분,False,부분
+지료 유량 모드,5,quick,aut→man,all,부분,부분,False,부분
+지료 유량 모드,5,quick,aut→man,normal,미설명,미설명,False,미설명
+지료 유량 모드,5,quick,aut→man,other,미설명,미설명,False,미설명
+지료 유량 모드,5,quick,aut→man,transition,부분,부분,False,부분
+지료 유량 모드,5,quick,man→aut,all,부분,부분,False,부분
+지료 유량 모드,5,quick,man→aut,normal,미설명,설명 가능,True,보류
+지료 유량 모드,5,quick,man→aut,other,미설명,미설명,False,미설명
+지료 유량 모드,5,quick,man→aut,transition,부분,부분,False,부분
+지료 유량 모드,15,main,aut→man,all,미설명,미설명,False,미설명
+지료 유량 모드,15,main,aut→man,normal,미설명,미설명,False,미설명
+지료 유량 모드,15,main,aut→man,other,미설명,미설명,False,미설명
+지료 유량 모드,15,main,aut→man,transition,미설명,미설명,False,미설명
+지료 유량 모드,15,main,man→aut,all,미설명,미설명,False,미설명
+지료 유량 모드,15,main,man→aut,normal,설명 가능,설명 가능,False,설명 가능
+지료 유량 모드,15,main,man→aut,other,미설명,미설명,False,미설명
+지료 유량 모드,15,main,man→aut,transition,미설명,미설명,False,미설명
+회분 모드,5,main,aut→man,all,미설명,미설명,False,미설명
+회분 모드,5,main,aut→man,normal,미설명,미설명,False,미설명
+회분 모드,5,main,aut→man,other,미설명,미설명,False,미설명
+회분 모드,5,main,aut→man,transition,미설명,미설명,False,미설명
+회분 모드,5,main,man→aut,all,미설명,미설명,False,미설명
+회분 모드,5,main,man→aut,normal,미설명,미설명,False,미설명
+회분 모드,5,main,man→aut,other,미설명,미설명,False,미설명
+회분 모드,5,main,man→aut,transition,미설명,미설명,False,미설명
+회분 모드,5,quick,aut→man,all,미설명,미설명,False,미설명
+회분 모드,5,quick,aut→man,normal,미설명,미설명,False,미설명
+회분 모드,5,quick,aut→man,other,미설명,미설명,False,미설명
+회분 모드,5,quick,aut→man,transition,미설명,미설명,False,미설명
+회분 모드,5,quick,man→aut,all,미설명,미설명,False,미설명
+회분 모드,5,quick,man→aut,normal,부분,부분,False,부분
+회분 모드,5,quick,man→aut,other,부분,설명 가능,True,보류
+회분 모드,5,quick,man→aut,transition,미설명,미설명,False,미설명
+회분 모드,15,main,aut→man,all,미설명,미설명,False,미설명
+회분 모드,15,main,aut→man,normal,미설명,미설명,False,미설명
+회분 모드,15,main,aut→man,other,미설명,미설명,False,미설명
+회분 모드,15,main,aut→man,transition,미설명,미설명,False,미설명
+회분 모드,15,main,man→aut,all,미설명,미설명,False,미설명
+회분 모드,15,main,man→aut,normal,미설명,미설명,False,미설명
+회분 모드,15,main,man→aut,other,미설명,미설명,False,미설명
+회분 모드,15,main,man→aut,transition,미설명,미설명,False,미설명
+후건조 압력 모드,5,main,aut→man,all,부분,미설명,True,보류
+후건조 압력 모드,5,main,aut→man,normal,미설명,미설명,False,미설명
+후건조 압력 모드,5,main,aut→man,other,미설명,미설명,False,미설명
+후건조 압력 모드,5,main,aut→man,transition,부분,부분,False,부분
+후건조 압력 모드,5,main,man→aut,all,부분,미설명,True,보류
+후건조 압력 모드,5,main,man→aut,normal,미설명,미설명,False,미설명
+후건조 압력 모드,5,main,man→aut,other,미설명,미설명,False,미설명
+후건조 압력 모드,5,main,man→aut,transition,부분,미설명,True,보류
+후건조 압력 모드,5,quick,aut→man,all,부분,미설명,True,보류
+후건조 압력 모드,5,quick,aut→man,normal,미설명,미설명,False,미설명
+후건조 압력 모드,5,quick,aut→man,other,미설명,미설명,False,미설명
+후건조 압력 모드,5,quick,aut→man,transition,부분,미설명,True,보류
+후건조 압력 모드,5,quick,man→aut,all,부분,부분,False,부분
+후건조 압력 모드,5,quick,man→aut,normal,미설명,부분,True,보류
+후건조 압력 모드,5,quick,man→aut,other,미설명,부분,True,보류
+후건조 압력 모드,5,quick,man→aut,transition,부분,부분,False,부분
+후건조 압력 모드,15,main,aut→man,all,부분,미설명,True,보류
+후건조 압력 모드,15,main,aut→man,normal,미설명,미설명,False,미설명
+후건조 압력 모드,15,main,aut→man,other,미설명,미설명,False,미설명
+후건조 압력 모드,15,main,aut→man,transition,미설명,미설명,False,미설명
+후건조 압력 모드,15,main,man→aut,all,부분,부분,False,부분
+후건조 압력 모드,15,main,man→aut,normal,미설명,미설명,False,미설명
+후건조 압력 모드,15,main,man→aut,other,미설명,미설명,False,미설명
+후건조 압력 모드,15,main,man→aut,transition,부분,부분,False,부분

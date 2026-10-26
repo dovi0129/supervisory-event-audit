@@ -1,0 +1,41 @@
+scope,loop,region,recent_hits,recent_events,no_recent_hits,no_recent_events
+full,전건조 압력 모드,all,,400,,389
+full,전건조 압력 모드,normal,,42,,59
+full,전건조 압력 모드,transition,,372,,340
+full,전건조 압력 모드,other,,1,,3
+time,전건조 압력 모드,all,52.0,87,4.0,112
+time,전건조 압력 모드,normal,3.0,9,0.0,17
+time,전건조 압력 모드,transition,49.0,82,4.0,97
+time,전건조 압력 모드,other,0.0,1,0.0,1
+full,지료 유량 모드,all,,539,,529
+full,지료 유량 모드,normal,,39,,69
+full,지료 유량 모드,transition,,514,,475
+full,지료 유량 모드,other,,3,,11
+time,지료 유량 모드,all,131.0,163,2.0,112
+time,지료 유량 모드,normal,9.0,16,0.0,9
+time,지료 유량 모드,transition,121.0,154,2.0,103
+time,지료 유량 모드,other,1.0,2,0.0,3
+full,회분 모드,all,,199,,494
+full,회분 모드,normal,,24,,199
+full,회분 모드,transition,,181,,287
+full,회분 모드,other,,1,,24
+time,회분 모드,all,26.0,57,11.0,105
+time,회분 모드,normal,2.0,6,2.0,39
+time,회분 모드,transition,24.0,53,9.0,63
+time,회분 모드,other,0.0,0,0.0,8
+full,후건조 압력 모드,all,,277,,293
+full,후건조 압력 모드,normal,,33,,45
+full,후건조 압력 모드,transition,,257,,253
+full,후건조 압력 모드,other,,5,,6
+time,후건조 압력 모드,all,55.0,79,2.0,119
+time,후건조 압력 모드,normal,3.0,9,0.0,18
+time,후건조 압력 모드,transition,51.0,75,2.0,100
+time,후건조 압력 모드,other,1.0,3,0.0,3
+full,pooled,all,,1415,,1705
+full,pooled,normal,,138,,372
+full,pooled,other,,10,,44
+full,pooled,transition,,1324,,1355
+time,pooled,all,264.0,386,19.0,448
+time,pooled,normal,17.0,40,2.0,83
+time,pooled,other,2.0,6,0.0,15
+time,pooled,transition,245.0,364,17.0,363

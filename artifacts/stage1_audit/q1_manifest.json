@@ -1,0 +1,15 @@
+{
+  "returned_windows": 4613,
+  "normal_returned": 612,
+  "cross_lot_windows": 2514,
+  "permutations": 200,
+  "main_windows": 2003,
+  "target_roles": [
+    "reel 수분 목표",
+    "reel 평량 목표",
+    "size 수분 목표",
+    "size 평량 목표",
+    "분사/와이어 속도비 목표",
+    "회분 목표"
+  ]
+}

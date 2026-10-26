@@ -1,0 +1,127 @@
+[
+  {
+    "script": "scripts/s68/s68_analyze.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s68/s68_events.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s68/s68_extract.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s70/s70_features.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s70/s70_fit.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s70/s70_report.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s70/s70_run.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s70/s73_sequence.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s74/paper_figstyle.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s74/s74_episodes.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s74/s74_recipe.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s74/s74_report.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_common.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_finalize.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_q1.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_q2_build.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_q2_fit.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_q3.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_report.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s77_run.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s89_controls.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s89_q2.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s89_report.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s89_run.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  },
+  {
+    "script": "scripts/s77/s92_small_counts.py",
+    "exit_code": 0,
+    "result": "SKIP: requires plant records"
+  }
+]

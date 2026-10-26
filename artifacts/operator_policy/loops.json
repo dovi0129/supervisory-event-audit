@@ -1,0 +1,561 @@
+{
+  "params": {
+    "REL": 0.002,
+    "RAMP_MIN": 3,
+    "SETTLE": 3,
+    "DCS_CONT": 0.05,
+    "DENSE_FILL": 5,
+    "GC_PRE": 30,
+    "GC_POST": 60,
+    "BRK_NEAR": 30,
+    "COCHANGE": 2
+  },
+  "n_minutes": 481311,
+  "n_grade_changes": 1123,
+  "loops": {
+    "DCS 차압 루프 1": {
+      "kind": "dcs",
+      "thr": 1e-09,
+      "n_zero_dropped": 12,
+      "q1": 0.18,
+      "q99": 0.18,
+      "n_recorded": 348528,
+      "frac_missing": 0.27587775887108335,
+      "change_rate_recorded": 5.738419868704954e-06,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 차압 루프 2": {
+      "kind": "dcs",
+      "thr": 0.00028000000000000003,
+      "n_zero_dropped": 12,
+      "q1": 0.06,
+      "q99": 0.2,
+      "n_recorded": 126,
+      "frac_missing": 0.9997382150002805,
+      "change_rate_recorded": 0.5079365079365079,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 차압 루프 3": {
+      "kind": "dcs",
+      "thr": 5.399999999999999e-05,
+      "n_zero_dropped": 12,
+      "q1": 0.193,
+      "q99": 0.22,
+      "n_recorded": 31,
+      "frac_missing": 0.9999355925794341,
+      "change_rate_recorded": 0.06451612903225806,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 차압 루프 4": {
+      "kind": "dcs",
+      "thr": 0.0002694000000000001,
+      "n_zero_dropped": 12,
+      "q1": 0.1,
+      "q99": 0.23470000000000005,
+      "n_recorded": 52,
+      "frac_missing": 0.9998919617461475,
+      "change_rate_recorded": 0.25,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 차압 루프 5": {
+      "kind": "dcs",
+      "thr": 0.00010000000000000003,
+      "n_zero_dropped": 12,
+      "q1": 0.15,
+      "q99": 0.2,
+      "n_recorded": 33,
+      "frac_missing": 0.9999314372619782,
+      "change_rate_recorded": 0.09090909090909091,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 압력 루프 1": {
+      "kind": "dcs",
+      "thr": 0.38761328,
+      "n_zero_dropped": 12,
+      "q1": 57.09636,
+      "q99": 250.903,
+      "n_recorded": 126037,
+      "frac_missing": 0.7381381269075504,
+      "change_rate_recorded": 0.1150614502090656,
+      "mode_tag": null,
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "DCS 압력 루프 2": {
+      "kind": "dcs",
+      "thr": 1e-09,
+      "n_zero_dropped": 12,
+      "q1": -0.4,
+      "q99": -0.4,
+      "n_recorded": 29,
+      "frac_missing": 0.99993974789689,
+      "change_rate_recorded": 0.0,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 압력 루프 3": {
+      "kind": "dcs",
+      "thr": 1e-09,
+      "n_zero_dropped": 12,
+      "q1": -0.4,
+      "q99": -0.4,
+      "n_recorded": 31,
+      "frac_missing": 0.9999355925794341,
+      "change_rate_recorded": 0.0,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 압력 루프 4": {
+      "kind": "dcs",
+      "thr": 1e-09,
+      "n_zero_dropped": 12,
+      "q1": -0.4,
+      "q99": -0.4,
+      "n_recorded": 29,
+      "frac_missing": 0.99993974789689,
+      "change_rate_recorded": 0.0,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 압력 루프 5": {
+      "kind": "dcs",
+      "thr": 1e-09,
+      "n_zero_dropped": 13,
+      "q1": -0.4,
+      "q99": -0.4,
+      "n_recorded": 30,
+      "frac_missing": 0.999937670238162,
+      "change_rate_recorded": 0.0,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 압력 루프 6": {
+      "kind": "dcs",
+      "thr": 1e-09,
+      "n_zero_dropped": 12,
+      "q1": -0.2,
+      "q99": -0.2,
+      "n_recorded": 29,
+      "frac_missing": 0.99993974789689,
+      "change_rate_recorded": 0.0,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 압력 루프 7": {
+      "kind": "dcs",
+      "thr": 0.003542,
+      "n_zero_dropped": 27,
+      "q1": 0.211,
+      "q99": 1.982,
+      "n_recorded": 231068,
+      "frac_missing": 0.5199195530540545,
+      "change_rate_recorded": 0.7038447556563436,
+      "mode_tag": null,
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "DCS 압력 루프 8": {
+      "kind": "dcs",
+      "thr": 0.005742,
+      "n_zero_dropped": 27,
+      "q1": 0.406,
+      "q99": 3.277,
+      "n_recorded": 244814,
+      "frac_missing": 0.491360056179892,
+      "change_rate_recorded": 0.6883511563881151,
+      "mode_tag": null,
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "DCS 압력 루프 9": {
+      "kind": "dcs",
+      "thr": 0.003424,
+      "n_zero_dropped": 27,
+      "q1": 0.381,
+      "q99": 2.093,
+      "n_recorded": 371814,
+      "frac_missing": 0.22749739773244326,
+      "change_rate_recorded": 0.7220223014733173,
+      "mode_tag": null,
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "DCS 압력 루프 10": {
+      "kind": "dcs",
+      "thr": 0.00685626000000001,
+      "n_zero_dropped": 27,
+      "q1": 0.784,
+      "q99": 4.212130000000005,
+      "n_recorded": 404988,
+      "frac_missing": 0.15857314709200496,
+      "change_rate_recorded": 0.6716668148192045,
+      "mode_tag": null,
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "DCS 압력 루프 11": {
+      "kind": "dcs",
+      "thr": 0.014,
+      "n_zero_dropped": 38,
+      "q1": 0.5,
+      "q99": 7.5,
+      "n_recorded": 745,
+      "frac_missing": 0.9984521442476901,
+      "change_rate_recorded": 0.6389261744966444,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 압력 루프 12": {
+      "kind": "dcs",
+      "thr": 0.00039999999999999996,
+      "n_zero_dropped": 12,
+      "q1": 0.17,
+      "q99": 0.37,
+      "n_recorded": 2209,
+      "frac_missing": 0.9954104518699968,
+      "change_rate_recorded": 0.6586690810321413,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 온도 루프 1": {
+      "kind": "dcs",
+      "thr": 0.021,
+      "n_zero_dropped": 12,
+      "q1": 44.5,
+      "q99": 55.0,
+      "n_recorded": 31,
+      "frac_missing": 0.9999355925794341,
+      "change_rate_recorded": 0.03225806451612903,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 온도 루프 2": {
+      "kind": "dcs",
+      "thr": 0.04,
+      "n_zero_dropped": 12,
+      "q1": 35.0,
+      "q99": 55.0,
+      "n_recorded": 47,
+      "frac_missing": 0.9999023500397871,
+      "change_rate_recorded": 0.2127659574468085,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 온도 루프 3": {
+      "kind": "dcs",
+      "thr": 1e-09,
+      "n_zero_dropped": 12,
+      "q1": 184.0,
+      "q99": 184.0,
+      "n_recorded": 29,
+      "frac_missing": 0.99993974789689,
+      "change_rate_recorded": 0.0,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "DCS 온도 루프 4": {
+      "kind": "dcs",
+      "thr": 0.02,
+      "n_zero_dropped": 12,
+      "q1": 115.0,
+      "q99": 125.0,
+      "n_recorded": 36,
+      "frac_missing": 0.9999252042857945,
+      "change_rate_recorded": 0.1111111111111111,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "후건조 압력 설정값": {
+      "kind": "manip",
+      "thr": 0.008155999999999998,
+      "n_zero_dropped": 0,
+      "q1": 0.059,
+      "q99": 4.137,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 0.5360321561871949,
+      "mode_tag": "후건조 압력 모드",
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "회분 유량 설정값": {
+      "kind": "manip",
+      "thr": 0.07392893999999994,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 36.96446999999997,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 0.47572890270339996,
+      "mode_tag": "회분 유량 모드",
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "회분 목표": {
+      "kind": "target",
+      "thr": 0.05,
+      "n_zero_dropped": 88,
+      "q1": 5.0,
+      "q99": 30.0,
+      "n_recorded": 480566,
+      "frac_missing": 0.0015478557523098371,
+      "change_rate_recorded": 0.005803573286499669,
+      "mode_tag": "회분 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "size 평량 목표": {
+      "kind": "target",
+      "thr": 0.278,
+      "n_zero_dropped": 88,
+      "q1": 51.0,
+      "q99": 190.0,
+      "n_recorded": 480566,
+      "frac_missing": 0.0015478557523098371,
+      "change_rate_recorded": 0.0021329016201728796,
+      "mode_tag": "size 평량 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "reel 평량 목표": {
+      "kind": "target",
+      "thr": 0.329,
+      "n_zero_dropped": 0,
+      "q1": 51.5,
+      "q99": 216.0,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 0.009405934414360434,
+      "mode_tag": "reel 평량 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "분사/와이어 속도비 목표": {
+      "kind": "target",
+      "thr": 0.0010400000000000001,
+      "n_zero_dropped": 7,
+      "q1": 0.5,
+      "q99": 1.02,
+      "n_recorded": 480647,
+      "frac_missing": 0.001379565395347291,
+      "change_rate_recorded": 0.00231978978335452,
+      "mode_tag": "분사/와이어 속도비 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "size 수분 목표": {
+      "kind": "target",
+      "thr": 0.005,
+      "n_zero_dropped": 88,
+      "q1": 1.0,
+      "q99": 3.5,
+      "n_recorded": 480566,
+      "frac_missing": 0.0015478557523098371,
+      "change_rate_recorded": 0.006382057823483143,
+      "mode_tag": "size 수분 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "reel 수분 목표": {
+      "kind": "target",
+      "thr": 0.0044,
+      "n_zero_dropped": 0,
+      "q1": 3.3,
+      "q99": 5.5,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 0.0024237809318137372,
+      "mode_tag": "reel 수분 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "전건조 압력 설정값": {
+      "kind": "manip",
+      "thr": 0.009808,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 4.904,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 0.4881265941820936,
+      "mode_tag": "전건조 압력 모드",
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "수분 계산 설정값": {
+      "kind": "calc",
+      "thr": 0.005206,
+      "n_zero_dropped": 200497,
+      "q1": 0.89,
+      "q99": 3.493,
+      "n_recorded": 280158,
+      "frac_missing": 0.4179272860998398,
+      "change_rate_recorded": 0.05701068682671921,
+      "mode_tag": null,
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사",
+      "n_step_like": 1932
+    },
+    "지료 유량 설정값": {
+      "kind": "manip",
+      "thr": 0.024480000000000002,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 12.24,
+      "n_recorded": 480655,
+      "frac_missing": 0.0013629441255238297,
+      "change_rate_recorded": 0.3479772393920796,
+      "mode_tag": "지료 유량 모드",
+      "rule": "분 단위 변화 전부 자동"
+    },
+    "후건조 압력 출력": {
+      "kind": "op",
+      "thr": 0.2,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 100.0,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 4.369047173226479e-05,
+      "mode_tag": "후건조 압력 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "전건조 압력 출력": {
+      "kind": "op",
+      "thr": 0.2,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 100.0,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 8.946144211844694e-05,
+      "mode_tag": "전건조 압력 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "지료 유량 출력": {
+      "kind": "op",
+      "thr": 0.2,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 100.0,
+      "n_recorded": 480655,
+      "frac_missing": 0.0013629441255238297,
+      "change_rate_recorded": 0.0007760243833934943,
+      "mode_tag": "지료 유량 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "회분 유량 출력": {
+      "kind": "op",
+      "thr": 0.2,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 100.0,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 3.120747980876056e-05,
+      "mode_tag": "회분 유량 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "분사/와이어 속도비 출력": {
+      "kind": "op",
+      "thr": 0.19320400000000001,
+      "n_zero_dropped": 0,
+      "q1": 0.0,
+      "q99": 96.602,
+      "n_recorded": 480654,
+      "frac_missing": 0.0013650217842517624,
+      "change_rate_recorded": 3.9529474424430047e-05,
+      "mode_tag": "분사/와이어 속도비 모드",
+      "rule": "같은 부호 묶음: 길이 ≤ 2 계단, ≥ 3 경사"
+    },
+    "후건조 압력 모드": {
+      "kind": "mode",
+      "n_transitions": 1766,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "회분 유량 모드": {
+      "kind": "mode",
+      "n_transitions": 286,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "분사/와이어 속도비 모드": {
+      "kind": "mode",
+      "n_transitions": 102,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "전건조 압력 모드": {
+      "kind": "mode",
+      "n_transitions": 1944,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "회분 모드": {
+      "kind": "mode",
+      "n_transitions": 2204,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "reel 평량 모드": {
+      "kind": "mode",
+      "n_transitions": 22,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "reel 수분 모드": {
+      "kind": "mode",
+      "n_transitions": 20,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "size 평량 모드": {
+      "kind": "mode",
+      "n_transitions": 2,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "size 수분 모드": {
+      "kind": "mode",
+      "n_transitions": 22,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "지료 농도 모드": {
+      "kind": "mode",
+      "n_transitions": 8,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    },
+    "지료 유량 모드": {
+      "kind": "mode",
+      "n_transitions": 2855,
+      "values": [
+        "aut",
+        "man"
+      ],
+      "rule": "aut↔man 전환 전부 운전자 후보"
+    }
+  }
+}

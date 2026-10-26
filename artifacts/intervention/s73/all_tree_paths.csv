@@ -1,0 +1,181 @@
+loop,path_id,region,conditions,saved_probability,tau,probability_ge_tau,test_minutes,score_ge_tau_minutes,alarms,hit_alarms,finite_condition_minutes,unique_score_minutes
+전건조 압력 모드,0,all,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 <= -5.15870,0.9800000190734863,0.8421052694320679,True,16,16,15,15,16,0
+전건조 압력 모드,0,normal,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 <= -5.15870,0.9800000190734863,0.8421052694320679,True,2,2,2,2,2,0
+전건조 압력 모드,0,transition,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 <= -5.15870,0.9800000190734863,0.8421052694320679,True,14,14,13,13,14,0
+전건조 압력 모드,0,other,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 <= -5.15870,0.9800000190734863,0.8421052694320679,True,0,0,0,0,0,0
+전건조 압력 모드,1,all,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 > -5.15870,1.0,0.8421052694320679,True,16,16,15,14,16,0
+전건조 압력 모드,1,normal,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 > -5.15870,1.0,0.8421052694320679,True,0,0,0,0,0,0
+전건조 압력 모드,1,transition,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 > -5.15870,1.0,0.8421052694320679,True,16,16,15,14,16,0
+전건조 압력 모드,1,other,weight_error_raw <= -10.57500 AND size_moisture_target_age <= 0.50000 AND weight_slope5 > -5.15870,1.0,0.8421052694320679,True,0,0,0,0,0,0
+전건조 압력 모드,2,all,weight_error_raw <= -10.57500 AND size_moisture_target_age > 0.50000,0.8518518805503845,0.8421052694320679,True,28,28,6,5,28,0
+전건조 압력 모드,2,normal,weight_error_raw <= -10.57500 AND size_moisture_target_age > 0.50000,0.8518518805503845,0.8421052694320679,True,1,1,1,1,1,0
+전건조 압력 모드,2,transition,weight_error_raw <= -10.57500 AND size_moisture_target_age > 0.50000,0.8518518805503845,0.8421052694320679,True,27,27,5,4,27,0
+전건조 압력 모드,2,other,weight_error_raw <= -10.57500 AND size_moisture_target_age > 0.50000,0.8518518805503845,0.8421052694320679,True,0,0,0,0,0,0
+전건조 압력 모드,3,all,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age <= 108.50000,0.11421911418437958,0.8421052694320679,False,111,0,0,0,111,0
+전건조 압력 모드,3,normal,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age <= 108.50000,0.11421911418437958,0.8421052694320679,False,19,0,0,0,19,0
+전건조 압력 모드,3,transition,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age <= 108.50000,0.11421911418437958,0.8421052694320679,False,92,0,0,0,92,0
+전건조 압력 모드,3,other,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age <= 108.50000,0.11421911418437958,0.8421052694320679,False,0,0,0,0,0,0
+전건조 압력 모드,4,all,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age > 108.50000,0.8421052694320679,0.8421052694320679,True,12,12,9,7,12,0
+전건조 압력 모드,4,normal,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age > 108.50000,0.8421052694320679,0.8421052694320679,True,3,3,2,0,3,0
+전건조 압력 모드,4,transition,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age > 108.50000,0.8421052694320679,0.8421052694320679,True,9,9,7,7,9,0
+전건조 압력 모드,4,other,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 <= 0.50000 AND weight_target_age > 108.50000,0.8421052694320679,0.8421052694320679,True,0,0,0,0,0,0
+전건조 압력 모드,5,all,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 <= 0.50000,0.037634409964084625,0.8421052694320679,False,4648,0,0,0,4645,3
+전건조 압력 모드,5,normal,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 <= 0.50000,0.037634409964084625,0.8421052694320679,False,2723,0,0,0,2723,0
+전건조 압력 모드,5,transition,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 <= 0.50000,0.037634409964084625,0.8421052694320679,False,1891,0,0,0,1889,2
+전건조 압력 모드,5,other,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 <= 0.50000,0.037634409964084625,0.8421052694320679,False,34,0,0,0,33,1
+전건조 압력 모드,6,all,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 > 0.50000,0.009947673417627811,0.8421052694320679,False,51548,0,0,0,51530,18
+전건조 압력 모드,6,normal,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 > 0.50000,0.009947673417627811,0.8421052694320679,False,39141,0,0,0,39141,0
+전건조 압력 모드,6,transition,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 > 0.50000,0.009947673417627811,0.8421052694320679,False,11637,0,0,0,11630,7
+전건조 압력 모드,6,other,weight_error_raw > -10.57500 AND weight_error_raw <= 4.91150 AND 지료 유량 모드 > 0.50000 AND 회분 모드 > 0.50000,0.009947673417627811,0.8421052694320679,False,770,0,0,0,759,11
+전건조 압력 모드,7,all,weight_error_raw > -10.57500 AND weight_error_raw > 4.91150,1.0,0.8421052694320679,True,25,25,17,15,25,0
+전건조 압력 모드,7,normal,weight_error_raw > -10.57500 AND weight_error_raw > 4.91150,1.0,0.8421052694320679,True,0,0,0,0,0,0
+전건조 압력 모드,7,transition,weight_error_raw > -10.57500 AND weight_error_raw > 4.91150,1.0,0.8421052694320679,True,25,25,17,15,25,0
+전건조 압력 모드,7,other,weight_error_raw > -10.57500 AND weight_error_raw > 4.91150,1.0,0.8421052694320679,True,0,0,0,0,0,0
+전건조 압력 모드,-1,all,unresolved,,0.8421052694320679,,0,0,0,0,0,0
+전건조 압력 모드,-1,normal,unresolved,,0.8421052694320679,,0,0,0,0,0,0
+전건조 압력 모드,-1,transition,unresolved,,0.8421052694320679,,0,0,0,0,0,0
+전건조 압력 모드,-1,other,unresolved,,0.8421052694320679,,0,0,0,0,0,0
+지료 유량 모드,0,all,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre <= 2.46100,0.9599999785423279,0.5199999809265137,True,14,14,10,10,14,0
+지료 유량 모드,0,normal,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre <= 2.46100,0.9599999785423279,0.5199999809265137,True,2,2,1,1,2,0
+지료 유량 모드,0,transition,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre <= 2.46100,0.9599999785423279,0.5199999809265137,True,12,12,9,9,12,0
+지료 유량 모드,0,other,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre <= 2.46100,0.9599999785423279,0.5199999809265137,True,0,0,0,0,0,0
+지료 유량 모드,1,all,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre > 2.46100,1.0,0.5199999809265137,True,108,108,68,65,108,0
+지료 유량 모드,1,normal,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre > 2.46100,1.0,0.5199999809265137,True,10,10,8,8,10,0
+지료 유량 모드,1,transition,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre > 2.46100,1.0,0.5199999809265137,True,97,97,59,56,97,0
+지료 유량 모드,1,other,moisture_target_age <= 2.50000 AND size_moisture_target_age <= 3.50000 AND pressure_pre > 2.46100,1.0,0.5199999809265137,True,1,1,1,1,1,0
+지료 유량 모드,2,all,moisture_target_age <= 2.50000 AND size_moisture_target_age > 3.50000,0.5199999809265137,0.5199999809265137,True,44,44,22,16,44,0
+지료 유량 모드,2,normal,moisture_target_age <= 2.50000 AND size_moisture_target_age > 3.50000,0.5199999809265137,0.5199999809265137,True,16,16,5,0,16,0
+지료 유량 모드,2,transition,moisture_target_age <= 2.50000 AND size_moisture_target_age > 3.50000,0.5199999809265137,0.5199999809265137,True,28,28,17,16,28,0
+지료 유량 모드,2,other,moisture_target_age <= 2.50000 AND size_moisture_target_age > 3.50000,0.5199999809265137,0.5199999809265137,True,0,0,0,0,0,0
+지료 유량 모드,3,all,moisture_target_age > 2.50000 AND weight_error <= -7.82925,0.9230769276618958,0.5199999809265137,True,106,106,39,27,106,0
+지료 유량 모드,3,normal,moisture_target_age > 2.50000 AND weight_error <= -7.82925,0.9230769276618958,0.5199999809265137,True,17,17,2,0,17,0
+지료 유량 모드,3,transition,moisture_target_age > 2.50000 AND weight_error <= -7.82925,0.9230769276618958,0.5199999809265137,True,60,60,31,27,60,0
+지료 유량 모드,3,other,moisture_target_age > 2.50000 AND weight_error <= -7.82925,0.9230769276618958,0.5199999809265137,True,29,29,6,0,29,0
+지료 유량 모드,4,all,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 <= 0.50000,0.03882082179188728,0.5199999809265137,False,6589,0,0,0,6586,3
+지료 유량 모드,4,normal,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 <= 0.50000,0.03882082179188728,0.5199999809265137,False,3733,0,0,0,3733,0
+지료 유량 모드,4,transition,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 <= 0.50000,0.03882082179188728,0.5199999809265137,False,2761,0,0,0,2759,2
+지료 유량 모드,4,other,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 <= 0.50000,0.03882082179188728,0.5199999809265137,False,95,0,0,0,94,1
+지료 유량 모드,5,all,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 > 0.50000,0.008941971696913242,0.5199999809265137,False,99914,0,0,0,99880,34
+지료 유량 모드,5,normal,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 > 0.50000,0.008941971696913242,0.5199999809265137,False,65500,0,0,0,65500,0
+지료 유량 모드,5,transition,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 > 0.50000,0.008941971696913242,0.5199999809265137,False,16856,0,0,0,16847,9
+지료 유량 모드,5,other,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw <= 3.31900 AND 회분 모드 > 0.50000,0.008941971696913242,0.5199999809265137,False,17558,0,0,0,17533,25
+지료 유량 모드,6,all,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw > 3.31900,0.7400000095367432,0.5199999809265137,True,37,37,22,15,37,0
+지료 유량 모드,6,normal,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw > 3.31900,0.7400000095367432,0.5199999809265137,True,4,4,4,0,4,0
+지료 유량 모드,6,transition,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw > 3.31900,0.7400000095367432,0.5199999809265137,True,32,32,17,15,32,0
+지료 유량 모드,6,other,moisture_target_age > 2.50000 AND weight_error > -7.82925 AND weight_error_raw > 3.31900,0.7400000095367432,0.5199999809265137,True,1,1,1,0,1,0
+지료 유량 모드,-1,all,unresolved,,0.5199999809265137,,0,0,0,0,0,0
+지료 유량 모드,-1,normal,unresolved,,0.5199999809265137,,0,0,0,0,0,0
+지료 유량 모드,-1,transition,unresolved,,0.5199999809265137,,0,0,0,0,0,0
+지료 유량 모드,-1,other,unresolved,,0.5199999809265137,,0,0,0,0,0,0
+회분 모드,0,all,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 <= -0.00360,0.36538460850715637,0.14565826952457428,True,20,20,5,2,20,0
+회분 모드,0,normal,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 <= -0.00360,0.36538460850715637,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,0,transition,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 <= -0.00360,0.36538460850715637,0.14565826952457428,True,20,20,5,2,20,0
+회분 모드,0,other,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 <= -0.00360,0.36538460850715637,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,1,all,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 > -0.00360,0.14388489723205566,0.14565826952457428,False,99,0,0,0,98,1
+회분 모드,1,normal,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 > -0.00360,0.14388489723205566,0.14565826952457428,False,4,0,0,0,4,0
+회분 모드,1,transition,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 > -0.00360,0.14388489723205566,0.14565826952457428,False,95,0,0,0,94,1
+회분 모드,1,other,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 <= -0.11190 AND pressure_pre_change5 > -0.00360,0.14388489723205566,0.14565826952457428,False,0,0,0,0,0,0
+회분 모드,2,all,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration <= 6.50000,0.26486486196517944,0.14565826952457428,True,162,162,24,7,162,0
+회분 모드,2,normal,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration <= 6.50000,0.26486486196517944,0.14565826952457428,True,12,12,3,0,12,0
+회분 모드,2,transition,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration <= 6.50000,0.26486486196517944,0.14565826952457428,True,150,150,21,7,150,0
+회분 모드,2,other,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration <= 6.50000,0.26486486196517944,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,3,all,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration > 6.50000,0.4577464759349823,0.14565826952457428,True,157,157,13,2,157,0
+회분 모드,3,normal,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration > 6.50000,0.4577464759349823,0.14565826952457428,True,8,8,1,0,8,0
+회분 모드,3,transition,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration > 6.50000,0.4577464759349823,0.14565826952457428,True,149,149,12,2,149,0
+회분 모드,3,other,지료 유량 모드 <= 0.50000 AND weight_error <= -13.27275 AND size_moisture_slope5 > -0.11190 AND moisture_duration > 6.50000,0.4577464759349823,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,4,all,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error <= -0.54950,0.14565826952457428,0.14565826952457428,True,285,285,72,15,285,0
+회분 모드,4,normal,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error <= -0.54950,0.14565826952457428,0.14565826952457428,True,37,37,9,2,37,0
+회분 모드,4,transition,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error <= -0.54950,0.14565826952457428,0.14565826952457428,True,248,248,63,13,248,0
+회분 모드,4,other,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error <= -0.54950,0.14565826952457428,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,5,all,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error > -0.54950,0.08448415994644165,0.14565826952457428,False,641,0,0,0,641,0
+회분 모드,5,normal,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error > -0.54950,0.08448415994644165,0.14565826952457428,False,30,0,0,0,30,0
+회분 모드,5,transition,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error > -0.54950,0.08448415994644165,0.14565826952457428,False,605,0,0,0,605,0
+회분 모드,5,other,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 <= 6.62010 AND size_moisture_error > -0.54950,0.08448415994644165,0.14565826952457428,False,6,0,0,0,6,0
+회분 모드,6,all,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error <= 0.43450,0.1310344785451889,0.14565826952457428,False,95,0,0,0,95,0
+회분 모드,6,normal,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error <= 0.43450,0.1310344785451889,0.14565826952457428,False,2,0,0,0,2,0
+회분 모드,6,transition,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error <= 0.43450,0.1310344785451889,0.14565826952457428,False,88,0,0,0,88,0
+회분 모드,6,other,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error <= 0.43450,0.1310344785451889,0.14565826952457428,False,5,0,0,0,5,0
+회분 모드,7,all,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error > 0.43450,0.4307692348957062,0.14565826952457428,True,13,13,6,3,13,0
+회분 모드,7,normal,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error > 0.43450,0.4307692348957062,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,7,transition,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error > 0.43450,0.4307692348957062,0.14565826952457428,True,13,13,6,3,13,0
+회분 모드,7,other,지료 유량 모드 <= 0.50000 AND weight_error > -13.27275 AND weight_slope5 > 6.62010 AND moisture_error > 0.43450,0.4307692348957062,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,8,all,지료 유량 모드 > 0.50000 AND weight_error <= -21.50775,0.46000000834465027,0.14565826952457428,True,46,46,27,3,46,0
+회분 모드,8,normal,지료 유량 모드 > 0.50000 AND weight_error <= -21.50775,0.46000000834465027,0.14565826952457428,True,2,2,2,1,2,0
+회분 모드,8,transition,지료 유량 모드 > 0.50000 AND weight_error <= -21.50775,0.46000000834465027,0.14565826952457428,True,44,44,25,2,44,0
+회분 모드,8,other,지료 유량 모드 > 0.50000 AND weight_error <= -21.50775,0.46000000834465027,0.14565826952457428,True,0,0,0,0,0,0
+회분 모드,9,all,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age <= 23.50000,0.022657794877886772,0.14565826952457428,False,2732,0,0,0,2729,3
+회분 모드,9,normal,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age <= 23.50000,0.022657794877886772,0.14565826952457428,False,0,0,0,0,0,0
+회분 모드,9,transition,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age <= 23.50000,0.022657794877886772,0.14565826952457428,False,2732,0,0,0,2729,3
+회분 모드,9,other,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age <= 23.50000,0.022657794877886772,0.14565826952457428,False,0,0,0,0,0,0
+회분 모드,10,all,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age > 23.50000,0.006086701527237892,0.14565826952457428,False,97209,0,0,0,97151,58
+회분 모드,10,normal,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age > 23.50000,0.006086701527237892,0.14565826952457428,False,65497,0,0,0,65481,16
+회분 모드,10,transition,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age > 23.50000,0.006086701527237892,0.14565826952457428,False,14138,0,0,0,14126,12
+회분 모드,10,other,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 <= 2.22255 AND grade_age > 23.50000,0.006086701527237892,0.14565826952457428,False,17574,0,0,0,17544,30
+회분 모드,11,all,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age <= 443.00000,0.08235294371843338,0.14565826952457428,False,30,0,0,0,30,0
+회분 모드,11,normal,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age <= 443.00000,0.08235294371843338,0.14565826952457428,False,1,0,0,0,1,0
+회분 모드,11,transition,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age <= 443.00000,0.08235294371843338,0.14565826952457428,False,26,0,0,0,26,0
+회분 모드,11,other,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age <= 443.00000,0.08235294371843338,0.14565826952457428,False,3,0,0,0,3,0
+회분 모드,12,all,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age > 443.00000,0.2602739632129669,0.14565826952457428,True,41,41,28,5,41,0
+회분 모드,12,normal,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age > 443.00000,0.2602739632129669,0.14565826952457428,True,5,5,5,1,5,0
+회분 모드,12,transition,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age > 443.00000,0.2602739632129669,0.14565826952457428,True,34,34,21,4,34,0
+회분 모드,12,other,지료 유량 모드 > 0.50000 AND weight_error > -21.50775 AND weight_slope5 > 2.22255 AND grade_age > 443.00000,0.2602739632129669,0.14565826952457428,True,2,2,2,0,2,0
+회분 모드,-1,all,unresolved,,0.14565826952457428,,0,0,0,0,0,0
+회분 모드,-1,normal,unresolved,,0.14565826952457428,,0,0,0,0,0,0
+회분 모드,-1,transition,unresolved,,0.14565826952457428,,0,0,0,0,0,0
+회분 모드,-1,other,unresolved,,0.14565826952457428,,0,0,0,0,0,0
+후건조 압력 모드,0,all,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error <= 0.17700,0.4545454680919647,0.13001911342144012,True,7,7,4,4,7,0
+후건조 압력 모드,0,normal,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error <= 0.17700,0.4545454680919647,0.13001911342144012,True,1,1,1,1,1,0
+후건조 압력 모드,0,transition,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error <= 0.17700,0.4545454680919647,0.13001911342144012,True,6,6,3,3,6,0
+후건조 압력 모드,0,other,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error <= 0.17700,0.4545454680919647,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,1,all,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error > 0.17700,0.8679245114326477,0.13001911342144012,True,7,7,3,3,7,0
+후건조 압력 모드,1,normal,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error > 0.17700,0.8679245114326477,0.13001911342144012,True,1,1,1,1,1,0
+후건조 압력 모드,1,transition,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error > 0.17700,0.8679245114326477,0.13001911342144012,True,6,6,2,2,6,0
+후건조 압력 모드,1,other,weight_error_raw <= -17.44000 AND weight_error <= -67.44025 AND moisture_error > 0.17700,0.8679245114326477,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,2,all,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error <= -0.91650,0.4035087823867798,0.13001911342144012,True,4,4,2,1,4,0
+후건조 압력 모드,2,normal,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error <= -0.91650,0.4035087823867798,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,2,transition,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error <= -0.91650,0.4035087823867798,0.13001911342144012,True,4,4,2,1,4,0
+후건조 압력 모드,2,other,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error <= -0.91650,0.4035087823867798,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,3,all,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error > -0.91650,0.1670588254928589,0.13001911342144012,True,95,95,29,9,95,0
+후건조 압력 모드,3,normal,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error > -0.91650,0.1670588254928589,0.13001911342144012,True,1,1,1,0,1,0
+후건조 압력 모드,3,transition,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error > -0.91650,0.1670588254928589,0.13001911342144012,True,94,94,28,9,94,0
+후건조 압력 모드,3,other,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 <= -0.03370 AND moisture_error > -0.91650,0.1670588254928589,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,4,all,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 <= -22.51000,0.14814814925193787,0.13001911342144012,True,3,3,0,0,3,0
+후건조 압력 모드,4,normal,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 <= -22.51000,0.14814814925193787,0.13001911342144012,True,1,1,0,0,1,0
+후건조 압력 모드,4,transition,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 <= -22.51000,0.14814814925193787,0.13001911342144012,True,2,2,0,0,2,0
+후건조 압력 모드,4,other,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 <= -22.51000,0.14814814925193787,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,5,all,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 > -22.51000,0.43971630930900574,0.13001911342144012,True,106,106,21,11,106,0
+후건조 압력 모드,5,normal,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 > -22.51000,0.43971630930900574,0.13001911342144012,True,6,6,2,0,6,0
+후건조 압력 모드,5,transition,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 > -22.51000,0.43971630930900574,0.13001911342144012,True,100,100,19,11,100,0
+후건조 압력 모드,5,other,weight_error_raw <= -17.44000 AND weight_error > -67.44025 AND size_moisture_slope5 > -0.03370 AND speed_change5 > -22.51000,0.43971630930900574,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,6,all,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error <= -1.18550,0.39726027846336365,0.13001911342144012,True,23,23,11,3,23,0
+후건조 압력 모드,6,normal,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error <= -1.18550,0.39726027846336365,0.13001911342144012,True,3,3,0,0,3,0
+후건조 압력 모드,6,transition,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error <= -1.18550,0.39726027846336365,0.13001911342144012,True,20,20,11,3,20,0
+후건조 압력 모드,6,other,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error <= -1.18550,0.39726027846336365,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,7,all,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error <= 11.01800,0.002912625903263688,0.13001911342144012,False,106413,0,0,0,106381,32
+후건조 압력 모드,7,normal,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error <= 11.01800,0.002912625903263688,0.13001911342144012,False,68737,0,0,0,68737,0
+후건조 압력 모드,7,transition,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error <= 11.01800,0.002912625903263688,0.13001911342144012,False,20131,0,0,0,20120,11
+후건조 압력 모드,7,other,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error <= 11.01800,0.002912625903263688,0.13001911342144012,False,17545,0,0,0,17524,21
+후건조 압력 모드,8,all,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error > 11.01800,0.13001911342144012,0.13001911342144012,True,146,146,36,17,146,0
+후건조 압력 모드,8,normal,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error > 11.01800,0.13001911342144012,0.13001911342144012,True,20,20,9,1,20,0
+후건조 압력 모드,8,transition,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error > 11.01800,0.13001911342144012,0.13001911342144012,True,126,126,27,16,126,0
+후건조 압력 모드,8,other,weight_error_raw > -17.44000 AND weight_error <= 42.17900 AND moisture_error > -1.18550 AND weight_error > 11.01800,0.13001911342144012,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,9,all,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age <= 662.00000,0.8360655903816223,0.13001911342144012,True,12,12,2,1,11,1
+후건조 압력 모드,9,normal,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age <= 662.00000,0.8360655903816223,0.13001911342144012,True,11,11,1,0,10,1
+후건조 압력 모드,9,transition,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age <= 662.00000,0.8360655903816223,0.13001911342144012,True,1,1,1,1,1,0
+후건조 압력 모드,9,other,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age <= 662.00000,0.8360655903816223,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,10,all,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age > 662.00000,0.38999998569488525,0.13001911342144012,True,35,35,7,5,35,0
+후건조 압력 모드,10,normal,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age > 662.00000,0.38999998569488525,0.13001911342144012,True,1,1,0,0,1,0
+후건조 압력 모드,10,transition,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age > 662.00000,0.38999998569488525,0.13001911342144012,True,30,30,6,4,30,0
+후건조 압력 모드,10,other,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after <= 1.40400 AND grade_age > 662.00000,0.38999998569488525,0.13001911342144012,True,4,4,1,1,4,0
+후건조 압력 모드,11,all,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after <= 2.42300,0.17766498029232025,0.13001911342144012,True,51,51,8,2,51,0
+후건조 압력 모드,11,normal,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after <= 2.42300,0.17766498029232025,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,11,transition,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after <= 2.42300,0.17766498029232025,0.13001911342144012,True,41,41,7,2,41,0
+후건조 압력 모드,11,other,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after <= 2.42300,0.17766498029232025,0.13001911342144012,True,10,10,1,0,10,0
+후건조 압력 모드,12,all,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after > 2.42300,0.5,0.13001911342144012,True,1,1,1,1,1,0
+후건조 압력 모드,12,normal,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after > 2.42300,0.5,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,12,transition,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after > 2.42300,0.5,0.13001911342144012,True,1,1,1,1,1,0
+후건조 압력 모드,12,other,weight_error_raw > -17.44000 AND weight_error > 42.17900 AND pressure_after > 1.40400 AND pressure_after > 2.42300,0.5,0.13001911342144012,True,0,0,0,0,0,0
+후건조 압력 모드,-1,all,unresolved,,0.13001911342144012,,0,0,0,0,0,0
+후건조 압력 모드,-1,normal,unresolved,,0.13001911342144012,,0,0,0,0,0,0
+후건조 압력 모드,-1,transition,unresolved,,0.13001911342144012,,0,0,0,0,0,0
+후건조 압력 모드,-1,other,unresolved,,0.13001911342144012,,0,0,0,0,0,0
